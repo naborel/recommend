@@ -1,3 +1,5 @@
+https://medium.com/@brruce/use-data-science-to-help-decide-where-to-open-what-type-of-business-426aab144711?sk=3ebe891e37a879eb66350262c5714aff
+
 This project was my final for the IBM Professional Certification in Data Science course.
 
 We had to use Foursquare's Places API.
