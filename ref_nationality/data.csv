@@ -1,0 +1,1310 @@
+matchYear,matchID,leftTeam,leftScore,rightTeam,rightScore,refName,leftPenalties,rightPenalties
+2009,601,Highlanders,31,Brumbies,33,Matt Goddard,17,18
+2009,602,Force,19,Blues,25,Bryce Lawrence,19,8
+2009,603,Lions,34,Cheetahs,28,Craig Joubert,14,11
+2009,604,Crusaders,19,Chiefs,13,Chris Pollock,12,13
+2009,605,Hurricanes,22,NSW Waratahs,26,Stuart Dickinson,5,20
+2009,606,Stormers,15,Sharks,20,Mark Lawrence,19,18
+2009,607,Bulls,33,Reds,20,Marius Jonker,13,9
+2009,608,Hurricanes,22,Highlanders,17,Keith Brown,8,9
+2009,609,NSW Waratahs,11,Chiefs,7,Stuart Dickinson,15,13
+2009,610,Force,16,Cheetahs,10,James Leckie,20,22
+2009,611,Stormers,27,Reds,24,Chris Pollock,12,12
+2009,612,Brumbies,18,Crusaders,16,Bryce Lawrence,9,18
+2009,613,Bulls,59,Blues,26,Mark Lawrence,12,16
+2009,614,Sharks,25,Lions,10,Jonathan Kaplan,3,6
+2009,615,Crusaders,24,Hurricanes,30,Stuart Dickinson,6,4
+2009,616,NSW Waratahs,34,Highlanders,16,James Leckie,15,15
+2009,617,Chiefs,15,Sharks,22,Bryce Lawrence,7,14
+2009,618,Brumbies,16,Force,25,Matt Goddard,13,17
+2009,619,Lions,9,Bulls,16,Phillip Anthony Bosch,13,17
+2009,620,Stormers,8,Blues,14,Marius Jonker,9,7
+2009,621,Reds,22,Cheetahs,3,Ian Smith,11,16
+2009,622,Chiefs,31,Force,13,Matt Goddard,13,12
+2009,623,NSW Waratahs,15,Reds,11,Bryce Lawrence,12,9
+2009,624,Hurricanes,29,Cheetahs,12,Paul Marks,13,12
+2009,625,Blues,31,Sharks,35,Marius Jonker,9,13
+2009,626,Highlanders,6,Crusaders,0,Ian Smith,15,15
+2009,627,Bulls,14,Stormers,10,Craig Joubert,12,12
+2009,628,Blues,46,Cheetahs,12,Keith Brown,6,4
+2009,630,Crusaders,23,Force,23,Marius Jonker,13,11
+2009,631,Highlanders,10,Chiefs,14,Matt Goddard,13,13
+2009,632,Reds,25,Sharks,13,James Leckie,9,10
+2009,633,Stormers,56,Lions,18,Craig Joubert,13,8
+2009,634,Hurricanes,14,Bulls,19,Matt Goddard,16,8
+2009,635,Highlanders,32,Cheetahs,8,Paul Marks,11,18
+2009,636,Chiefs,63,Blues,34,Mark Lawrence,16,5
+2009,637,NSW Waratahs,13,Crusaders,17,Chris Pollock,9,17
+2009,638,Force,10,Sharks,22,Bryce Lawrence,9,17
+2009,639,Lions,25,Brumbies,17,Jonathan Kaplan,3,3
+2009,640,Blues,22,NSW Waratahs,27,Craig Joubert,15,10
+2009,641,Highlanders,36,Bulls,12,Vinny Munro,17,13
+2009,642,Crusaders,11,Stormers,7,Keith Brown,11,17
+2009,643,Reds,26,Chiefs,50,Ian Smith,15,17
+2009,644,Sharks,35,Brumbies,14,Bryce Lawrence,13,9
+2009,645,Lions,32,Hurricanes,38,Jonathan Kaplan,12,9
+2009,646,Crusaders,16,Bulls,13,Craig Joubert,9,12
+2009,647,Force,39,Reds,7,Stuart Dickinson,12,10
+2009,649,Chiefs,36,Lions,29,Paul Marks,12,17
+2009,651,Cheetahs,27,Brumbies,40,Matt Goddard,4,8
+2009,648,Sharks,33,Hurricanes,17,Marius Jonker,3,6
+2009,652,Blues,36,Lions,12,James Leckie,10,14
+2009,653,Force,27,Hurricanes,28,Stuart Dickinson,17,7
+2009,654,Highlanders,24,Reds,19,Craig Joubert,12,14
+2009,655,Brumbies,17,Stormers,10,Paul Marks,12,16
+2009,656,NSW Waratahs,6,Bulls,20,Jonathan Kaplan,9,23
+2009,657,Cheetahs,31,Sharks,6,Nathan Pearce,11,14
+2009,659,Brumbies,32,Bulls,31,Chris Pollock,8,12
+2009,660,Hurricanes,34,Stormers,11,Jonathan Kaplan,21,12
+2009,661,Reds,20,Lions,31,Keith Brown,9,17
+2009,662,NSW Waratahs,14,Force,15,James Leckie,17,13
+2009,663,Cheetahs,10,Chiefs,28,Nathan Pearce,10,12
+2009,664,Sharks,10,Crusaders,13,Mark Lawrence,10,17
+2009,665,Highlanders,11,Stormers,18,Matt Goddard,8,11
+2009,667,Blues,24,Reds,31,Vinny Munro,9,19
+2009,668,Hurricanes,56,Brumbies,7,Bryce Lawrence,7,10
+2009,669,Cheetahs,20,Crusaders,13,James Leckie,14,7
+2009,670,Bulls,33,Chiefs,27,Craig Joubert,18,13
+2009,672,Lions,20,Crusaders,32,Jonathan Kaplan,9,12
+2009,673,Cheetahs,10,NSW Waratahs,18,Marius Jonker,7,13
+2009,674,Reds,13,Brumbies,52,Ian Smith,11,13
+2009,675,Sharks,23,Highlanders,15,Phillip Anthony Bosch,10,18
+2009,676,Bulls,32,Force,29,Stuart Dickinson,10,5
+2009,677,Stormers,14,Chiefs,28,James Leckie,5,16
+2009,678,Crusaders,32,Reds,12,Chris Pollock,10,13
+2009,680,Lions,27,Highlanders,22,Jaco Peyper,17,18
+2009,679,Chiefs,16,Hurricanes,8,Bryce Lawrence,14,16
+2009,681,Brumbies,37,Blues,15,Matt Goddard,12,14
+2009,682,Sharks,12,NSW Waratahs,16,Mark Lawrence,10,18
+2009,683,Bulls,29,Cheetahs,20,Stuart Dickinson,11,20
+2009,684,Stormers,25,Force,24,Marius Jonker,11,11
+2009,686,Lions,33,NSW Waratahs,38,Marius Jonker,11,18
+2009,687,Blues,13,Crusaders,15,Bryce Lawrence,15,9
+2009,688,Reds,28,Hurricanes,37,Jonathan Kaplan,9,19
+2009,689,Force,33,Highlanders,28,Nathan Pearce,18,12
+2009,690,Cheetahs,22,Stormers,28,Garratt Williamson,9,14
+2009,691,Sharks,26,Bulls,27,Craig Joubert,19,18
+2009,693,Chiefs,14,Hurricanes,10,Stuart Dickinson,12,12
+2009,692,Bulls,36,Crusaders,23,Bryce Lawrence,9,8
+2009,694,Bulls,61,Chiefs,17,Jonathan Kaplan,3,2
+2010,701,Blues,20,Hurricanes,34,Stuart Dickinson,14,14
+2010,702,Force,15,Brumbies,24,Steve Walsh,9,12
+2010,703,Cheetahs,34,Bulls,51,Jonathan Kaplan,7,11
+2010,704,Crusaders,32,Highlanders,17,Chris Pollock,7,8
+2010,705,Reds,28,NSW Waratahs,30,Craig Joubert,9,7
+2010,706,Lions,13,Stormers,26,Jaco Peyper,13,13
+2010,707,Sharks,18,Chiefs,19,Keith Brown,19,9
+2010,708,Highlanders,15,Blues,19,Bryce Lawrence,8,11
+2010,709,Reds,41,Crusaders,20,Craig Joubert,12,14
+2010,710,Sharks,20,Cheetahs,25,Jonathan Kaplan,11,19
+2010,711,Lions,65,Chiefs,72,Marius Jonker,12,22
+2010,712,Hurricanes,47,Force,22,Vinny Munro,13,10
+2010,713,Bulls,50,Brumbies,32,Mark Lawrence,11,16
+2010,714,Stormers,27,NSW Waratahs,6,Keith Brown,17,14
+2010,715,Crusaders,35,Sharks,6,Chris Pollock,6,11
+2010,716,Stormers,17,Brumbies,19,Craig Joubert,13,16
+2010,717,Hurricanes,33,Lions,18,Nathan Pearce,14,16
+2010,718,Reds,18,Blues,27,Steve Walsh,5,7
+2010,719,Force,19,Chiefs,37,Jaco Peyper,10,9
+2010,720,Cheetahs,24,Highlanders,31,Pro Legoete,10,17
+2010,721,Bulls,48,NSW Waratahs,38,Marius Jonker,4,13
+2010,722,Chiefs,18,Reds,23,Chris Pollock,9,10
+2010,723,Brumbies,24,Lions,13,Steve Walsh,7,19
+2010,724,Crusaders,33,Blues,20,Keith Brown,11,9
+2010,725,NSW Waratahs,25,Sharks,21,Paul Marks,6,6
+2010,727,Cheetahs,28,Hurricanes,12,Bryce Lawrence,11,10
+2010,728,Chiefs,19,Crusaders,26,Mark Lawrence,9,13
+2010,729,NSW Waratahs,73,Lions,12,Vinny Munro,15,10
+2010,730,Brumbies,24,Sharks,22,Garratt Williamson,9,13
+2010,732,Stormers,37,Hurricanes,13,Steve Walsh,8,7
+2010,733,Reds,50,Force,10,Ian Smith,14,10
+2010,734,Blues,39,Brumbies,34,Mark Lawrence,13,9
+2010,735,Bulls,19,Hurricanes,18,Nathan Pearce,7,14
+2010,736,Crusaders,46,Lions,19,Keith Brown,10,12
+2010,737,Highlanders,16,Sharks,30,Jonathon White,8,9
+2010,738,Force,10,NSW Waratahs,14,Jaco Peyper,14,7
+2010,739,Stormers,21,Cheetahs,8,Chris Pollock,10,6
+2010,740,Highlanders,39,Lions,29,Stuart Dickinson,15,19
+2010,741,Brumbies,30,Chiefs,23,Jaco Peyper,6,10
+2010,742,Cheetahs,10,Reds,31,Vinny Munro,11,13
+2010,743,Hurricanes,26,Sharks,29,Ian Smith,11,13
+2010,744,NSW Waratahs,39,Blues,32,Garratt Williamson,7,11
+2010,745,Force,15,Bulls,28,Steve Walsh,15,11
+2010,746,Hurricanes,26,Crusaders,26,Jonathan Kaplan,15,11
+2010,747,Force,16,Stormers,15,Stuart Dickinson,8,15
+2010,748,Blues,32,Bulls,17,Craig Joubert,12,17
+2010,749,Chiefs,27,Highlanders,21,Marius Jonker,10,8
+2010,750,NSW Waratahs,40,Cheetahs,17,Bryce Lawrence,13,16
+2010,751,Sharks,30,Reds,28,Chris Pollock,8,14
+2010,752,Chiefs,19,Bulls,33,Dave Pearson,12,8
+2010,753,Highlanders,27,Force,41,Marius Jonker,6,11
+2010,754,Blues,21,Stormers,33,Stuart Dickinson,8,13
+2010,755,Crusaders,20,NSW Waratahs,13,Craig Joubert,11,14
+2010,756,Brumbies,61,Cheetahs,15,Bryce Lawrence,8,14
+2010,757,Lions,26,Reds,41,Mark Lawrence,3,11
+2010,758,Chiefs,15,Stormers,49,Steve Walsh,15,9
+2010,759,Brumbies,13,Hurricanes,23,Jonathan Kaplan,12,15
+2010,792,Bulls,39,Crusaders,24,Stuart Dickinson,8,12
+2010,793,Stormers,25,NSW Waratahs,6,Mark Lawrence,13,13
+2010,794,Bulls,25,Stormers,17,Craig Joubert,8,9
+2011,800,Hurricanes,9,Highlanders,14,Bryce Lawrence,14,13
+2011,801,Rebels,0,NSW Waratahs,43,Mark Lawrence,15,10
+2011,802,Blues,24,Crusaders,22,Chris Pollock,9,10
+2011,803,Brumbies,28,Chiefs,20,Jonathan Kaplan,12,12
+2011,804,Sharks,24,Cheetahs,9,Steve Walsh,10,17
+2011,805,Lions,20,Bulls,24,Marius Jonker,9,11
+2011,806,Reds,21,Force,20,Ian Smith,11,13
+2011,807,Highlanders,23,Chiefs,13,Mark Lawrence,9,17
+2011,808,Rebels,25,Brumbies,24,Jonathan Kaplan,12,11
+2011,809,Cheetahs,23,Bulls,25,Craig Joubert,13,10
+2011,811,NSW Waratahs,30,Reds,6,Bryce Lawrence,10,12
+2011,812,Sharks,26,Blues,12,Jaco Peyper,13,9
+2011,813,Stormers,19,Lions,16,Stuart Dickinson,12,19
+2011,814,Crusaders,33,NSW Waratahs,18,Chris Pollock,13,10
+2011,815,Lions,32,Blues,41,Jonathan Kaplan,5,13
+2011,816,Chiefs,38,Rebels,10,Vinny Munro,13,13
+2011,817,Brumbies,25,Reds,31,Mark Lawrence,14,12
+2011,818,Force,12,Sharks,39,Keith Brown,13,10
+2011,819,Stormers,21,Cheetahs,15,Pro Legoete,14,14
+2011,820,Bulls,28,Highlanders,35,Stuart Dickinson,7,18
+2011,821,Crusaders,52,Brumbies,10,Garratt Williamson,12,10
+2011,822,Rebels,32,Sharks,34,Chris Pollock,14,7
+2011,823,Stormers,18,Highlanders,6,Steve Walsh,17,12
+2011,824,Hurricanes,29,Chiefs,26,Marius Jonker,8,6
+2011,825,Force,22,Blues,22,Nathan Pearce,13,13
+2011,826,Cheetahs,20,Lions,25,Keith Brown,13,12
+2011,827,Chiefs,15,Sharks,9,Garratt Williamson,9,10
+2011,828,Reds,53,Rebels,3,Stuart Dickinson,10,13
+2011,829,Highlanders,13,Crusaders,44,Marius Jonker,14,14
+2011,830,Blues,41,Hurricanes,17,Vinny Munro,10,10
+2011,831,NSW Waratahs,3,Cheetahs,23,Chris Pollock,9,7
+2011,832,Lions,15,Force,27,Mark Lawrence,12,11
+2011,833,Bulls,13,Stormers,23,Keith Brown,13,8
+2011,835,Rebels,42,Hurricanes,25,Jaco Peyper,13,11
+2011,836,Reds,41,Cheetahs,8,Keith Brown,11,8
+2011,837,Chiefs,13,Blues,16,Ian Smith,16,7
+2011,838,Brumbies,22,NSW Waratahs,29,Marius Jonker,6,16
+2011,840,Stormers,51,Force,16,Pro Legoete,13,12
+2011,839,Bulls,30,Lions,23,Chris Pollock,15,13
+2011,834,Crusaders,44,Sharks,28,Steve Walsh,9,7
+2011,841,Highlanders,26,Brumbies,20,Stuart Dickinson,11,8
+2011,842,NSW Waratahs,23,Chiefs,16,Jaco Peyper,11,10
+2011,843,Blues,29,Cheetahs,22,Bryce Lawrence,9,8
+2011,844,Hurricanes,14,Bulls,26,Steve Walsh,10,13
+2011,845,Force,25,Rebels,26,Craig Joubert,7,13
+2011,846,Lions,25,Reds,30,Vinny Munro,7,14
+2011,847,Sharks,6,Stormers,16,Mark Lawrence,7,7
+2011,848,Highlanders,24,Cheetahs,21,Nathan Pearce,9,8
+2011,849,Crusaders,27,Bulls,0,Jonathon White,11,9
+2011,850,Brumbies,17,Hurricanes,16,Craig Joubert,6,17
+2011,851,Force,3,NSW Waratahs,31,Garratt Williamson,6,10
+2011,852,Stormers,6,Reds,19,Jaco Peyper,8,13
+2011,853,Sharks,27,Lions,3,Jonathan Kaplan,12,12
+2011,854,Chiefs,16,Crusaders,34,Craig Joubert,7,8
+2011,856,Rebels,18,Highlanders,40,Garratt Williamson,10,10
+2011,857,Blues,31,NSW Waratahs,17,Mark Lawrence,9,2
+2011,858,Reds,39,Bulls,30,Bryce Lawrence,9,8
+2011,859,Lions,19,Stormers,33,Marius Jonker,9,8
+2011,860,Cheetahs,47,Hurricanes,50,Stuart Dickinson,7,7
+2011,861,Brumbies,19,Force,27,Keith Brown,6,13
+2011,862,Blues,40,Rebels,23,Jonathon White,10,10
+2011,863,Crusaders,18,Highlanders,26,Bryce Lawrence,9,4
+2011,864,Reds,19,NSW Waratahs,15,Steve Walsh,10,6
+2011,865,Force,26,Bulls,21,Mark Lawrence,9,12
+2011,866,Sharks,40,Hurricanes,24,Stuart Dickinson,9,9
+2011,867,Lions,30,Chiefs,34,Marius Jonker,7,15
+2011,868,Highlanders,10,Blues,15,Chris Pollock,14,11
+2011,872,Cheetahs,47,Brumbies,36,Marius Jonker,11,11
+2011,869,Hurricanes,28,Reds,26,Keith Brown,10,10
+2011,870,NSW Waratahs,28,Rebels,9,Jonathan Kaplan,7,10
+2011,871,Force,30,Crusaders,42,Vinny Munro,9,10
+2011,873,Bulls,43,Chiefs,27,Craig Joubert,12,11
+2011,874,Stormers,32,Sharks,12,Jaco Peyper,16,13
+2011,875,Hurricanes,11,Blues,17,Jonathan Kaplan,6,10
+2011,876,Rebels,18,Reds,33,Bryce Lawrence,9,14
+2011,877,Lions,19,Cheetahs,53,Craig Joubert,13,8
+2011,878,Chiefs,20,Highlanders,7,Garratt Williamson,10,10
+2011,879,NSW Waratahs,20,Force,15,Stuart Dickinson,9,9
+2011,880,Stormers,14,Crusaders,20,Chris Pollock,5,13
+2011,881,Sharks,34,Brumbies,16,Mark Lawrence,9,9
+2011,882,Highlanders,13,Hurricanes,6,Vinny Munro,11,9
+2011,883,Reds,37,Blues,31,Jonathan Kaplan,7,8
+2011,884,Chiefs,30,Stormers,23,Stuart Dickinson,12,11
+2011,885,Brumbies,20,Lions,29,Nathan Pearce,10,11
+2011,886,Bulls,47,Rebels,10,Chris Pollock,10,12
+2011,887,Cheetahs,33,Crusaders,20,Bryce Lawrence,12,8
+2011,888,Blues,26,Stormers,28,Keith Brown,10,10
+2011,889,Crusaders,25,Chiefs,19,Stuart Dickinson,14,11
+2011,890,NSW Waratahs,29,Lions,12,Marius Jonker,9,11
+2011,891,Force,13,Brumbies,13,Ian Smith,11,16
+2011,925,Cheetahs,41,Rebels,21,Pro Legoete,7,11
+2011,892,Sharks,23,Bulls,32,Bryce Lawrence,11,18
+2011,893,Hurricanes,34,Force,28,Glen Jackson,6,6
+2011,894,Highlanders,22,Lions,26,Jonathon White,9,14
+2011,895,Brumbies,3,Stormers,16,Marius Jonker,9,9
+2011,896,Sharks,26,NSW Waratahs,21,Jonathan Kaplan,11,13
+2011,897,Bulls,32,Cheetahs,21,Mark Lawrence,14,10
+2011,898,Reds,17,Crusaders,16,Stuart Dickinson,5,11
+2011,899,Highlanders,14,Force,21,Jonathon White,9,9
+2011,900,Rebels,3,Stormers,40,Chris Pollock,12,5
+2011,901,Bulls,23,NSW Waratahs,17,Craig Joubert,11,10
+2011,902,Hurricanes,38,Lions,27,Keith Brown,6,9
+2011,903,Blues,11,Chiefs,16,Bryce Lawrence,8,9
+2011,904,Reds,14,Brumbies,22,Garratt Williamson,9,12
+2011,905,Cheetahs,18,Sharks,23,Mark Lawrence,8,11
+2011,906,Chiefs,18,Hurricanes,18,Vinny Munro,6,5
+2011,907,Brumbies,32,Rebels,17,Glen Jackson,4,12
+2011,908,Crusaders,23,Blues,16,Craig Joubert,7,7
+2011,909,NSW Waratahs,33,Highlanders,7,Chris Pollock,10,4
+2011,910,Force,21,Reds,24,Stuart Dickinson,6,8
+2011,911,Lions,30,Sharks,30,Marius Jonker,10,8
+2011,912,Stormers,16,Bulls,19,Jonathan Kaplan,8,17
+2011,913,Blues,33,Highlanders,16,Bryce Lawrence,7,10
+2011,914,Rebels,24,Force,27,Garratt Williamson,12,10
+2011,915,Chiefs,11,Reds,19,Keith Brown,9,8
+2011,916,Crusaders,16,Hurricanes,9,Chris Pollock,11,7
+2011,917,NSW Waratahs,41,Brumbies,7,Craig Joubert,3,6
+2011,918,Bulls,23,Sharks,26,Jonathan Kaplan,9,10
+2011,919,Cheetahs,34,Stormers,44,Marius Jonker,9,8
+2011,920,Blues,26,NSW Waratahs,13,Chris Pollock,6,8
+2011,921,Crusaders,36,Sharks,8,Bryce Lawrence,6,10
+2011,922,Reds,30,Blues,13,Jonathan Kaplan,11,10
+2011,923,Stormers,10,Crusaders,29,Craig Joubert,10,16
+2011,924,Reds,18,Crusaders,13,Bryce Lawrence,6,7
+2012,200,Blues,18,Crusaders,19,Chris Pollock,9,12
+2012,201,Brumbies,19,Force,17,Bryce Lawrence,11,10
+2012,202,Bulls,18,Sharks,13,Jonathon Kaplan,11,13
+2012,203,Chiefs,19,Highlanders,23,Jonathon White,10,12
+2012,204,NSW Waratahs,21,Reds,25,Jayco Peyper,12,9
+2012,205,Stormers,39,Hurricanes,26,Marius Jonker,9,21
+2012,206,Lions,27,Cheetahs,25,Mark Lawrence,12,17
+2012,207,Chiefs,29,Blues,14,Keith Brown,15,5
+2012,208,Rebels,19,NSW Waratahs,35,Bryce Lawrence,10,15
+2012,209,Lions,28,Hurricanes,30,Steve Walsh,7,7
+2012,210,Highlanders,27,Crusaders,24,Jayco Peyper,11,7
+2012,211,Reds,35,Force,20,Ian Smith,10,13
+2012,212,Cheetahs,19,Bulls,51,Craig Joubert,7,17
+2012,213,Stormers,15,Sharks,12,Mark Lawrence,7,15
+2012,214,Crusaders,19,Chiefs,24,Garratt Williamson,11,11
+2012,215,Force,19,Hurricanes,46,Jaco Peyper,4,13
+2012,216,Brumbies,24,Cheetahs,23,Keith Brown,10,12
+2012,217,Highlanders,18,NSW Waratahs,17,Bryce Lawrence,8,13
+2012,218,Reds,11,Rebels,6,Ian Smith,12,11
+2012,219,Sharks,32,Lions,20,Mark Lawrence,13,9
+2012,220,Bulls,23,Blues,29,Steve Walsh,13,17
+2012,221,Chiefs,29,Brumbies,22,Ian Smith,9,10
+2012,222,Stormers,27,Blues,17,Glen Jackson,10,11
+2012,223,Hurricanes,17,Highlanders,19,Bryce Lawrence,14,11
+2012,224,NSW Waratahs,20,Force,21,Jonathon White,10,13
+2012,225,Sharks,27,Reds,22,Jonathon Kaplan,10,11
+2012,226,Rebels,26,Cheetahs,33,Garratt Williamson,8,11
+2012,227,Blues,25,Hurricanes,26,Steve Walsh,3,11
+2012,228,Rebels,30,Force,29,Marius Jonker,10,12
+2012,229,NSW Waratahs,34,Sharks,30,Chris Pollock,13,6
+2012,230,Crusaders,28,Cheetahs,21,Keith Brown,7,11
+2012,231,Brumbies,33,Highlanders,26,Lourens van der merwe,10,12
+2012,232,Bulls,61,Reds,8,Jonathon Kaplan,9,9
+2012,233,Lions,19,Stormers,24,Glen Jackson,8,12
+2012,234,Highlanders,43,Rebels,12,Marius Jonker,9,10
+2012,235,Hurricanes,38,Cheetahs,47,Ian Smith,10,7
+2012,236,Chiefs,30,NSW Waratahs,13,Michael Fraser,13,8
+2012,237,Brumbies,26,Sharks,29,Keith Brown,9,6
+2012,238,Force,45,Reds,19,Garratt Williamson,11,11
+2012,239,Lions,13,Crusaders,23,Jonathan Kaplan,10,11
+2012,240,Stormers,20,Bulls,17,Craig Joubert,9,16
+2012,241,Rebels,34,Blues,23,Bryce Lawrence,10,10
+2012,242,Hurricanes,42,Sharks,18,Glen Jackson,15,13
+2012,243,Reds,20,Brumbies,13,Steve Walsh,7,9
+2012,244,Force,12,Chiefs,20,Jonathon White,8,14
+2012,245,Highlanders,6,Stormers,21,Chris Pollock,9,11
+2012,246,Cheetahs,26,Lions,5,Mark Lawrence,12,7
+2012,247,Bulls,32,Crusaders,30,Jaco Peyper,13,12
+2012,248,Blues,23,Sharks,29,Steve Walsh,4,9
+2012,249,Force,18,NSW Waratahs,23,Glen Jackson,14,13
+2012,250,Crusaders,31,Stormers,24,Chris Pollock,8,10
+2012,251,Brumbies,37,Rebels,6,Craig Joubert,12,13
+2012,252,Cheetahs,33,Chiefs,39,Jonathan Kaplan,7,15
+2012,253,Lions,18,Bulls,32,Garratt Williamson,9,11
+2012,254,Highlanders,30,Blues,27,Bryce Lawrence,12,9
+2012,255,Reds,13,Stormers,23,Steve Walsh,10,11
+2012,256,Hurricanes,14,Crusaders,42,Craig Joubert,11,12
+2012,257,NSW Waratahs,30,Rebels,21,Jonathan Kaplan,13,13
+2012,258,Sharks,12,Chiefs,18,Garratt Williamson,7,13
+2012,259,Bulls,36,Brumbies,34,Marius Jonker,6,11
+2012,260,Blues,11,Reds,23,Craig Joubert,11,11
+2012,261,Lions,20,Brumbies,34,Keith Brown,8,10
+2012,262,Chiefs,33,Hurricanes,14,Jonathon White,11,10
+2012,263,Force,3,Stormers,17,Jaco Peyper,9,10
+2012,264,Cheetahs,33,Highlanders,36,Marius Jonker,11,12
+2012,265,NSW Waratahs,33,Crusaders,37,Jonathan Kaplan,4,10
+2012,266,Hurricanes,35,Blues,19,Jaco Peyper,8,4
+2012,267,Rebels,35,Bulls,41,Andrew Lees,5,9
+2012,268,Chiefs,34,Lions,21,Ian Smith,15,7
+2012,269,Brumbies,23,NSW Waratahs,6,Chris Pollock,13,12
+2012,270,Sharks,28,Highlanders,16,Steve Walsh,11,10
+2012,271,Cheetahs,17,Force,13,Stuart Berry,8,18
+2012,272,Crusaders,15,Reds,11,Bryce Lawrence,7,18
+2012,273,Blues,25,Lions,3,Angus Gardner,10,11
+2012,274,NSW Waratahs,24,Bulls,27,Chris Pollock,10,10
+2012,275,Highlanders,20,Hurricanes,26,Glen Jackson,7,9
+2012,276,Rebels,28,Crusaders,19,Jaco Peyper,7,8
+2012,277,Sharks,53,Force,11,Mark Lawrence,12,17
+2012,278,Stormers,16,Cheetahs,14,Steve Walsh,11,10
+2012,279,Reds,42,Chiefs,27,Marius Jonker,6,8
+2012,280,Hurricanes,25,Brumbies,37,Mark Lawrence,8,8
+2012,281,Highlanders,16,Bulls,11,Ian Smith,9,15
+2012,282,Crusaders,59,Blues,12,Bryce Lawrence,8,7
+2012,283,Reds,34,Lions,20,Keith Brown,9,10
+2012,284,Cheetahs,20,Sharks,34,Jonathan Kaplan,8,13
+2012,285,Stormers,19,NSW Waratahs,13,Craig Joubert,8,14
+2012,286,Force,31,Rebels,32,Marius Jonker,8,9
+2012,287,Chiefs,28,Bulls,22,Mark Lawrence,7,9
+2012,288,Hurricanes,66,Rebels,24,Jonathon White,7,8
+2012,289,Blues,20,Highlanders,27,Glen Jackson,5,16
+2012,290,Brumbies,12,Reds,13,Steve Walsh,8,13
+2012,291,Force,17,Lions,11,Garratt Williamson,6,13
+2012,292,Cheetahs,35,NSW Waratahs,34,Craig Joubert,10,8
+2012,293,Sharks,25,Stormers,20,Jaco Peyper,10,6
+2012,294,Crusaders,51,Highlanders,18,Steve Walsh,10,14
+2012,295,Rebels,19,Brumbies,27,Keith Brown,11,10
+2012,296,Blues,34,Chiefs,41,Chris Pollock,9,15
+2012,297,Waratahs,12,Hurricanes,33,Bryce Lawrence,6,9
+2012,298,Lions,38,Sharks,28,Garratt Williamson,13,8
+2012,299,Bulls,14,Stormers,19,Jonathan Kaplan,12,11
+2012,300,Highlanders,21,Chiefs,27,Garratt Williamson,12,13
+2012,301,Rebels,17,Reds,32,Keith Brown,13,9
+2012,302,Crusaders,22,Hurricanes,23,Bryce Lawrence,9,12
+2012,303,Force,17,Brumbies,28,Ian Smith,12,12
+2012,304,Stormers,27,Lions,17,Mark Lawrence,7,13
+2012,305,Bulls,40,Cheetahs,24,Marius Jonker,12,7
+2012,306,Chiefs,21,Crusaders,28,Steve Walsh,7,12
+2012,307,Reds,19,Highlanders,13,Jonathan Kaplan,17,10
+2012,312,Sharks,32,Bulls,10,Jaco Peyper,6,9
+2012,308,Blues,32,Force,9,Andrew Lees,12,9
+2012,309,NSW Waratahs,15,Brumbies,19,Keith Brown,7,13
+2012,310,Cheetahs,6,Stormers,13,Marius Jonker,9,9
+2012,311,Lions,37,Rebels,32,Francisco Pastrana,12,8
+2012,313,Hurricanes,28,Chiefs,25,Jonathan Kaplan,12,12
+2012,314,Brumbies,16,Blues,30,Jonathon White,7,12
+2012,315,Crusaders,38,Force,24,Glen Jackson,18,10
+2012,316,Reds,32,NSW Waratahs,16,Steve Walsh,13,10
+2012,317,Stormers,26,Rebels,21,Lourens van der merwe,11,11
+2012,318,Sharks,34,Cheetahs,15,Jaco Peyper,14,12
+2012,319,Bulls,37,Lions,20,Craig Joubert,15,11
+2012,320,Crusaders,28,Bulls,13,Jaco Peyper,8,12
+2012,321,Reds,17,Sharks,30,Jonathan Kaplan,4,12
+2012,322,Chiefs,20,Crusaders,17,Craig Joubert,14,11
+2012,323,Stormers,19,Sharks,26,Steve Walsh,5,12
+2012,324,Chiefs,37,Sharks,6,Steve Walsh,7,6
+2013,11,Rebels,30,Force,23,Angus Gardner,11,11
+2013,12,Brumbies,24,Reds,6,Andrew Lees,8,13
+2013,21,Highlanders,27,Chiefs,41,Steve Walsh,10,10
+2013,22,Rebels,13,Brumbies,30,James Leckie,11,13
+2013,23,Bulls,25,Stormers,17,Jaco Peyper,10,6
+2013,24,Hurricanes,20,Blues,34,Glen Jackson,9,5
+2013,25,Reds,25,Waratahs,17,Chris Pollock,10,7
+2013,26,Cheetahs,22,Sharks,29,Jonathan Kaplan,7,7
+2013,27,Kings,22,Force,10,Lourens van der merwe,11,10
+2013,31,Blues,34,Crusaders,15,Chris Pollock,7,11
+2013,34,Waratahs,31,Rebels,26,Rohan Hoffmann,11,15
+2013,32,Reds,18,Hurricanes,12,Steve Walsh,11,14
+2013,33,Chiefs,45,Cheetahs,3,Michael Fraser,11,9
+2013,35,Bulls,36,Force,26,Jason Jaftha,6,11
+2013,36,Sharks,12,Stormers,6,Jonathan Kaplan,10,13
+2013,41,Hurricanes,29,Crusaders,28,Andrew Lees,3,11
+2013,42,Rebels,13,Reds,23,Francisco Pastrana,7,9
+2013,43,Highlanders,19,Cheetahs,36,Nick Briant,10,13
+2013,44,Brumbies,35,Waratahs,6,Jonathon White,15,10
+2013,45,Stormers,36,Chiefs,34,Jaco Peyper,7,12
+2013,46,Kings,12,Sharks,21,Jason Jaftha,12,13
+2013,47,Blues,21,Bulls,28,Garratt Williamson,8,7
+2013,51,Highlanders,19,Hurricanes,23,Francisco Pastrana,6,10
+2013,52,Waratahs,26,Cheetahs,27,Garratt Williamson,5,11
+2013,53,Kings,24,Chiefs,35,Stuart Berry,7,11
+2013,54,Crusaders,41,Bulls,19,Chris Pollock,8,8
+2013,55,Reds,12,Force,19,Angus Gardner,9,8
+2013,56,Sharks,10,Brumbies,29,Jonathan Kaplan,8,10
+2013,61,Chiefs,19,Highlanders,7,Jonathon White,10,8
+2013,62,Crusaders,55,Kings,20,Rohan Hoffmann,7,8
+2013,63,Reds,23,Bulls,18,James Leckie,11,12
+2013,64,Force,10,Cheetahs,19,Garratt Williamson,11,10
+2013,65,Sharks,64,Rebels,7,Lourens van der merwe,8,12
+2013,66,Stormers,35,Brumbies,22,Glen Jackson,10,9
+2013,67,Waratahs,30,Blues,27,Francisco Pastrana,8,12
+2013,71,Highlanders,33,Reds,34,Jaco Peyper,7,11
+2013,72,Hurricanes,46,Kings,30,Nick Briant,11,8
+2013,73,Chiefs,23,Blues,16,Jonathan Kaplan,11,8
+2013,74,Brumbies,23,Bulls,20,Jonathon White,11,14
+2013,75,Cheetahs,34,Rebels,16,Glen Jackson,7,6
+2013,76,Stormers,14,Crusaders,19,Craig Joubert,10,8
+2013,77,Waratahs,23,Force,19,Steve Walsh,11,12
+2013,81,Blues,29,Highlanders,18,Steve Walsh,9,9
+2013,82,Brumbies,28,Kings,28,Jaco Peyper,10,15
+2013,83,Sharks,21,Crusaders,17,Lourens van der merwe,9,12
+2013,84,Hurricanes,41,Waratahs,29,Jonathan Kaplan,8,8
+2013,85,Force,23,Rebels,30,Michael Fraser,4,12
+2013,86,Cheetahs,26,Stormers,24,Stuart Berry,10,7
+2013,91,Highlanders,19,Brumbies,30,Chris Pollock,7,13
+2013,92,Chiefs,23,Reds,31,Steve Walsh,9,8
+2013,93,Blues,28,Hurricanes,6,Jaco Peyper,12,8
+2013,94,Rebels,27,Kings,30,Andrew Lees,8,8
+2013,95,Force,16,Crusaders,14,Jonathan Kaplan,7,10
+2013,96,Stormers,22,Sharks,15,Craig Joubert,11,9
+2013,97,Bulls,26,Cheetahs,20,Jason Jaftha,12,5
+2013,101,Hurricanes,22,Force,16,Nick Briant,13,7
+2013,102,Waratahs,25,Chiefs,20,Craig Joubert,10,8
+2013,103,Crusaders,24,Highlanders,8,Garratt Williamson,8,12
+2013,104,Reds,19,Brumbies,19,Glen Jackson,6,17
+2013,105,Sharks,6,Cheetahs,12,Jonathon White,5,5
+2013,106,Kings,0,Bulls,34,Francisco Pastrana,9,7
+2013,111,Hurricanes,16,Stormers,18,Steve Walsh,9,5
+2013,112,Reds,12,Blues,11,Craig Joubert,5,9
+2013,113,Chiefs,37,Sharks,29,Chris Pollock,8,7
+2013,114,Brumbies,41,Force,7,Angus Gardner,16,7
+2013,115,Bulls,30,Waratahs,19,Francisco Pastrana,9,10
+2013,116,Cheetahs,26,Kings,12,Jonathon White,13,12
+2013,117,Crusaders,30,Rebels,26,Nick Briant,7,12
+2013,121,Blues,18,Stormers,17,Glen Jackson,10,10
+2013,122,Rebels,33,Chiefs,39,Garratt Williamson,7,6
+2013,123,Highlanders,25,Sharks,22,Steve Walsh,11,11
+2013,124,Force,11,Reds,11,Rohan Hoffmann,9,9
+2013,125,Kings,10,Waratahs,72,Jonathan Kaplan,7,8
+2013,126,Bulls,48,Hurricanes,14,Lourens van der Merwe,7,13
+2013,127,Brumbies,23,Crusaders,30,Craig Joubert,8,8
+2013,131,Chiefs,22,Force,21,Michael Fraser,8,13
+2013,132,Reds,32,Sharks,17,Glen Jackson,11,3
+2013,133,Cheetahs,34,Hurricanes,39,Stuart Berry,6,13
+2013,134,Blues,36,Rebels,32,Garratt Williamson,12,4
+2013,135,Waratahs,21,Stormers,15,Chris Pollock,6,9
+2013,136,Kings,34,Highlanders,27,Jason Jaftha,7,11
+2013,141,Hurricanes,12,Chiefs,17,Lourens van der merwe,10,10
+2013,142,Rebels,30,Stormers,21,Michael Fraser,6,9
+2013,143,Force,13,Sharks,23,James Leckie,10,9
+2013,144,Crusaders,23,Blues,3,Glen Jackson,7,11
+2013,145,Waratahs,28,Brumbies,22,Steve Walsh,7,11
+2013,146,Bulls,35,Highlanders,18,Jaco Peyper,11,14
+2013,147,Cheetahs,27,Reds,13,Craig Joubert,12,9
+2013,151,Chiefs,28,Crusaders,19,Steve Walsh,8,9
+2013,152,Rebels,24,Waratahs,22,Garratt Williamson,9,8
+2013,153,Blues,13,Brumbies,20,Lourens van der merwe,9,7
+2013,154,Force,19,Highlanders,18,Andrew Lees,10,9
+2013,155,Kings,22,Cheetahs,34,Stuart Berry,9,11
+2013,156,Stormers,20,Reds,15,Jaco Peyper,10,10
+2013,157,Sharks,16,Bulls,18,Jonathan Kaplan,9,9
+2013,161,Crusaders,23,Waratahs,22,Glen Jackson,8,11
+2013,162,Brumbies,30,Hurricanes,23,Jaco Peyper,12,13
+2013,163,Highlanders,38,Blues,28,Jonathon White,10,10
+2013,164,Reds,33,Rebels,20,James Leckie,11,6
+2013,165,Stormers,19,Kings,11,Craig Joubert,9,8
+2013,166,Cheetahs,25,Bulls,30,Jason Jaftha,6,11
+2013,171,Brumbies,39,Rebels,17,Rohan Hoffmann,7,2
+2013,172,Force,13,Waratahs,28,Angus Gardner,7,10
+2013,181,Chiefs,34,Hurricanes,22,Garratt Williamson,6,8
+2013,182,Highlanders,12,Crusaders,40,Steve Walsh,10,10
+2013,183,Sharks,22,Blues,20,Jaco Peyper,5,12
+2013,184,Bulls,48,Kings,18,Lourens van der merwe,9,10
+2013,185,Stormers,28,Cheetahs,3,Stuart Berry,5,12
+2013,191,Crusaders,43,Chiefs,15,Jonathon White,10,9
+2013,192,Hurricanes,44,Highlanders,49,Michael Fraser,10,13
+2013,193,Cheetahs,34,Blues,13,Jaco Peyper,5,12
+2013,194,Kings,12,Stormers,24,Lourens van der merwe,19,9
+2013,195,Bulls,20,Sharks,19,Jason Jaftha,13,6
+2013,201,Crusaders,25,Hurricanes,17,Glen Jackson,7,9
+2013,202,Rebels,38,Highlanders,37,Andrew Lees,6,7
+2013,203,Blues,16,Chiefs,26,Chris Pollock,8,12
+2013,204,Waratahs,12,Reds,14,Steve Walsh,11,6
+2013,205,Force,21,Brumbies,15,Rohan Hoffmann,9,6
+2013,206,Sharks,58,Kings,13,Jonathan Kaplan,12,8
+2013,207,Stormers,30,Bulls,13,Craig Joubert,15,9
+2013,212,Crusaders,38,Reds,9,Jaco Peyper,10,6
+2013,211,Brumbies,15,Cheetahs,13,Glen Jackson,9,14
+2013,221,Chiefs,20,Crusaders,19,Steve Walsh,6,9
+2013,222,Bulls,23,Brumbies,26,Craig Joubert,7,11
+2013,231,Chiefs,27,Brumbies,22,Craig Joubert,10,13
+2014,11,Cheetahs,20,Lions,21,Craig Joubert,9,12
+2014,12,Sharks,31,Bulls,16,Jaco Peyper,14,13
+2014,21,Crusaders,10,Chiefs,18,Chris Pollock,8,15
+2014,22,Cheetahs,15,Bulls,9,Stuart Berry,12,7
+2014,23,Highlanders,29,Blues,21,Garratt Williamson,12,8
+2014,24,Brumbies,17,Reds,27,James Leckie,11,14
+2014,25,Sharks,27,Hurricanes,9,Andrew Lees,11,11
+2014,26,Lions,34,Stormers,10,Jaco Peyper,13,9
+2014,27,Waratahs,43,Force,21,Rohan Hoffmann,15,8
+2014,31,Blues,35,Crusaders,24,Michael Fraser,12,8
+2014,32,Rebels,35,Cheetahs,14,Angus Gardner,11,8
+2014,33,Stormers,19,Hurricanes,18,Steve Walsh,10,11
+2014,34,Chiefs,21,Highlanders,19,Rohan Hoffmann,11,6
+2014,35,Waratahs,32,Reds,5,Glen Jackson,13,13
+2014,36,Force,14,Brumbies,27,Nick Briant,10,13
+2014,37,Bulls,25,Lions,17,Chris Pollock,8,11
+2014,41,Hurricanes,21,Brumbies,29,Craig Joubert,7,10
+2014,42,Reds,43,Cheetahs,33,Garratt Williamson,13,10
+2014,43,Crusaders,14,Stormers,13,Rohan Hoffmann,11,12
+2014,44,Force,32,Rebels,7,Nick Briant,8,11
+2014,45,Bulls,38,Blues,22,Andrew Lees,10,9
+2014,46,Sharks,37,Lions,23,Jaco Peyper,14,8
+2014,51,Chiefs,36,Stormers,20,Craig Joubert,11,6
+2014,52,Rebels,19,Crusaders,25,James Leckie,12,9
+2014,53,Hurricanes,60,Cheetahs,27,Angus Gardner,8,8
+2014,54,Highlanders,29,Force,31,Glen Jackson,5,13
+2014,55,Brumbies,28,Waratahs,23,Jaco Peyper,15,9
+2014,56,Lions,39,Blues,36,Stuart Berry,10,13
+2014,57,Sharks,35,Reds,20,Lourens van der merwe,10,15
+2014,61,Highlanders,35,Hurricanes,31,Nick Briant,13,12
+2014,62,Waratahs,32,Rebels,8,Jaco Peyper,11,10
+2014,63,Blues,40,Cheetahs,30,Francisco Pastrana,12,10
+2014,64,Brumbies,25,Stormers,15,Glen Jackson,11,11
+2014,65,Force,18,Chiefs,15,Lourens van der merwe,10,9
+2014,66,Lions,23,Reds,20,Stuart Berry,4,16
+2014,67,Bulls,23,Sharks,19,Michael Fraser,10,7
+2014,71,Crusaders,26,Hurricanes,29,Nick Briant,9,11
+2014,72,Rebels,32,Brumbies,24,Jaco Peyper,9,11
+2014,73,Blues,30,Highlanders,12,Steve Walsh,8,13
+2014,74,Reds,22,Stormers,17,Chris Pollock,7,9
+2014,75,Bulls,34,Chiefs,34,Craig Joubert,7,12
+2014,76,Sharks,32,Waratahs,10,Michael Fraser,9,20
+2014,81,Highlanders,33,Rebels,30,Chris Pollock,10,14
+2014,82,Brumbies,26,Blues,9,Rohan Hoffmann,13,8
+2014,83,Hurricanes,25,Bulls,20,Steve Walsh,10,8
+2014,84,Reds,29,Force,32,Garratt Williamson,9,10
+2014,85,Cheetahs,43,Chiefs,43,Craig Joubert,12,13
+2014,86,Lions,7,Crusaders,28,Marius van der Westhuizen,8,7
+2014,87,Stormers,11,Waratahs,22,Glen Jackson,11,15
+2014,91,Highlanders,27,Bulls,20,Rohan Hoffmann,14,7
+2014,92,Reds,20,Brumbies,23,Steve Walsh,7,6
+2014,93,Chiefs,22,Rebels,16,Matt O'brien,15,8
+2014,94,Force,28,Waratahs,16,Angus Gardner,9,12
+2014,95,Cheetahs,31,Crusaders,52,Glen Jackson,8,7
+2014,96,Lions,12,Sharks,25,Craig Joubert,14,12
+2014,101,Hurricanes,39,Blues,20,Nick Briant,12,6
+2014,102,Rebels,22,Force,16,Andrew Lees,9,13
+2014,103,Chiefs,17,Crusaders,18,Garratt Williamson,13,9
+2014,104,Waratahs,19,Bulls,12,Rohan Hoffmann,9,12
+2014,105,Sharks,19,Cheetahs,8,Jaco Peyper,9,14
+2014,106,Stormers,18,Lions,3,Stuart Berry,20,12
+2014,111,Blues,21,Waratahs,13,Chris Pollock,14,8
+2014,112,Brumbies,41,Chiefs,23,Steve Walsh,11,11
+2014,113,Sharks,18,Highlanders,34,Jaco Peyper,7,15
+2014,114,Hurricanes,35,Reds,21,Michael Fraser,6,6
+2014,115,Force,15,Bulls,9,Angus Gardner,6,11
+2014,116,Cheetahs,35,Stormers,22,Craig Joubert,7,9
+2014,121,Blues,44,Reds,14,Nick Briant,10,12
+2014,122,Rebels,16,Sharks,22,Andrew Lees,9,9
+2014,123,Crusaders,40,Brumbies,20,Glen Jackson,9,12
+2014,124,Chiefs,38,Lions,8,Chris Pollock,11,7
+2014,125,Waratahs,39,Hurricanes,30,Steve Walsh,8,7
+2014,126,Stormers,29,Highlanders,28,Craig Joubert,3,12
+2014,127,Bulls,26,Cheetahs,21,Marius van der westhuizen,9,13
+2014,131,Chiefs,32,Blues,20,Michael Fraser,15,7
+2014,132,Rebels,15,Hurricanes,25,Matt O'brien,12,11
+2014,133,Highlanders,23,Lions,22,Angus Gardner,13,8
+2014,134,Brumbies,16,Sharks,9,Glen Jackson,10,12
+2014,135,Cheetahs,16,Force,23,Chris Pollock,8,14
+2014,136,Bulls,28,Stormers,12,Craig Joubert,7,11
+2014,137,Reds,29,Crusaders,57,Jaco Peyper,9,9
+2014,141,Hurricanes,16,Highlanders,18,Jaco Peyper,10,9
+2014,142,Crusaders,25,Sharks,30,Rohan Hoffmann,9,16
+2014,143,Reds,27,Rebels,30,Steve Walsh,8,12
+2014,144,Stormers,24,Force,8,Chris Pollock,11,16
+2014,145,Cheetahs,27,Brumbies,21,Marius van der westhuizen,13,9
+2014,146,Waratahs,41,Lions,13,Nick Briant,13,9
+2014,151,Blues,23,Sharks,29,Nick Briant,9,13
+2014,152,Rebels,19,Waratahs,41,Rohan Hoffmann,13,10
+2014,157,Bulls,44,Brumbies,23,Craig Joubert,10,13
+2014,153,Highlanders,30,Crusaders,32,Glen Jackson,6,10
+2014,154,Hurricanes,45,Chiefs,8,Angus Gardner,9,13
+2014,155,Force,29,Lions,19,Steve Walsh,9,6
+2014,156,Stormers,33,Cheetahs,0,Stuart Berry,14,14
+2014,161,Crusaders,30,Force,7,Michael Fraser,7,20
+2014,162,Reds,38,Highlanders,31,Andrew Lees,9,8
+2014,163,Chiefs,17,Waratahs,33,Chris Pollock,12,9
+2014,164,Blues,37,Hurricanes,24,Garratt Williamson,9,8
+2014,165,Brumbies,37,Rebels,10,Steve Walsh,10,8
+2014,166,Lions,32,Bulls,21,Craig Joubert,7,12
+2014,167,Sharks,19,Stormers,21,Jaco Peyper,11,10
+2014,171,Highlanders,29,Chiefs,25,Garratt Williamson,8,12
+2014,172,Rebels,20,Reds,36,Angus Gardner,13,10
+2014,173,Hurricanes,16,Crusaders,9,Michael Fraser,13,8
+2014,174,Waratahs,39,Brumbies,8,Steve Walsh,7,13
+2014,175,Force,14,Blues,40,Rohan Hoffmann,8,14
+2014,181,Chiefs,24,Hurricanes,16,Nick Briant,10,9
+2014,182,Lions,34,Rebels,17,Jaco Peyper,5,13
+2014,183,Crusaders,21,Blues,13,Glen Jackson,9,11
+2014,184,Force,30,Reds,20,Angus Gardner,10,6
+2014,185,Stormers,16,Bulls,0,Craig Joubert,12,17
+2014,186,Cheetahs,27,Sharks,20,Rohan Hoffmann,18,9
+2014,187,Waratahs,44,Highlanders,16,Steve Walsh,10,8
+2014,191,Blues,8,Chiefs,11,Glen Jackson,7,16
+2014,192,Brumbies,47,Force,25,Steve Walsh,11,10
+2014,193,Bulls,40,Rebels,7,Rohan Hoffmann,8,16
+2014,194,Crusaders,34,Highlanders,8,Craig Joubert,11,14
+2014,195,Reds,3,Waratahs,34,Michael Fraser,11,12
+2014,196,Lions,60,Cheetahs,25,Marius van der westhuizen,11,12
+2014,197,Stormers,10,Sharks,34,Jaco Peyper,12,14
+2014,201,Brumbies,32,Chiefs,30,Craig Joubert,9,9
+2014,202,Sharks,31,Highlanders,27,Steve Walsh,6,13
+2014,211,Crusaders,38,Sharks,6,Glen Jackson,13,7
+2014,212,Waratahs,26,Brumbies,8,Jaco Peyper,16,10
+2014,221,Waratahs,33,Crusaders,32,Craig Joubert,13,10
+2015,11,Crusaders,10,Rebels,20,Nick Briant,12,13
+2015,12,Brumbies,47,Reds,3,Angus Gardner,8,17
+2015,13,Lions,8,Hurricanes,22,Rohan Hoffmann,9,13
+2015,14,Blues,18,Chiefs,23,Chris Pollock,7,11
+2015,15,Sharks,29,Cheetahs,35,Andrew Lees,12,12
+2015,16,Bulls,17,Stormers,29,Jaco Peyper,10,10
+2015,17,Waratahs,13,Force,25,Steve Walsh,9,11
+2015,21,Chiefs,19,Brumbies,17,Steve Walsh,14,7
+2015,22,Rebels,28,Waratahs,38,Angus Gardner,7,9
+2015,23,Bulls,13,Hurricanes,17,Andrew Lees,12,7
+2015,24,Highlanders,20,Crusaders,26,Ben O'keeffe,11,9
+2015,25,Reds,18,Force,6,Nick Briant,7,14
+2015,26,Stormers,27,Blues,16,Craig Joubert,7,17
+2015,27,Sharks,29,Lions,12,Rohan Hoffmann,9,10
+2015,31,Highlanders,20,Reds,13,Glen Jackson,9,11
+2015,32,Force,13,Hurricanes,42,Marius van der westhuizen,7,12
+2015,33,Cheetahs,25,Blues,24,Rohan Hoffmann,7,11
+2015,34,Chiefs,40,Crusaders,16,Michael Fraser,10,12
+2015,35,Rebels,15,Brumbies,20,Steve Walsh,11,12
+2015,36,Bulls,43,Sharks,35,Jaco Van heerden,13,11
+2015,37,Lions,19,Stormers,22,Andrew Lees,11,10
+2015,41,Chiefs,17,Highlanders,20,Nick Briant,9,16
+2015,42,Brumbies,27,Force,15,Marius van der westhuizen,7,8
+2015,43,Blues,10,Lions,13,Matt O'brien,12,9
+2015,44,Reds,5,Waratahs,23,Glen Jackson,12,17
+2015,45,Cheetahs,20,Bulls,39,Stuart Berry,11,12
+2015,46,Stormers,29,Sharks,13,Jaco Peyper,7,14
+2015,51,Hurricanes,30,Blues,23,Glen Jackson,14,7
+2015,52,Force,17,Rebels,21,Rohan Hoffmann,9,9
+2015,53,Crusaders,34,Lions,6,Nick Briant,11,14
+2015,54,Highlanders,26,Waratahs,19,Craig Joubert,9,7
+2015,55,Reds,0,Brumbies,29,Andrew Lees,12,6
+2015,56,Stormers,19,Chiefs,28,Jaco Peyper,11,12
+2015,57,Cheetahs,10,Sharks,27,Chris Pollock,6,16
+2015,61,Highlanders,13,Hurricanes,20,Ben O'keeffe,12,10
+2015,62,Rebels,16,Lions,20,Michael Fraser,8,7
+2015,63,Crusaders,57,Cheetahs,14,Andrew Lees,9,12
+2015,64,Bulls,25,Force,24,Nick Briant,10,22
+2015,65,Sharks,12,Chiefs,11,Angus Gardner,5,15
+2015,66,Waratahs,28,Brumbies,13,Craig Joubert,11,12
+2015,71,Hurricanes,36,Rebels,12,Stuart Berry,13,8
+2015,72,Reds,17,Lions,18,Glen Jackson,8,12
+2015,73,Chiefs,37,Cheetahs,27,Craig Joubert,16,8
+2015,74,Highlanders,39,Stormers,21,Rohan Hoffmann,7,7
+2015,75,Waratahs,23,Blues,11,Jaco Peyper,9,12
+2015,76,Sharks,15,Force,9,Nick Briant,9,7
+2015,77,Bulls,31,Crusaders,19,Angus Gardner,9,13
+2015,81,Hurricanes,25,Stormers,20,Rohan Hoffmann,11,9
+2015,82,Rebels,23,Reds,15,Matt O'brien,10,10
+2015,83,Chiefs,23,Blues,16,Michael Fraser,8,10
+2015,84,Brumbies,20,Cheetahs,3,Ben O'keeffe,10,12
+2015,85,Sharks,10,Crusaders,52,Stuart Berry,4,13
+2015,86,Lions,22,Bulls,18,Jaco Van heerden,10,12
+2015,91,Blues,16,Brumbies,14,Andrew Lees,9,9
+2015,92,Crusaders,20,Highlanders,25,Glen Jackson,9,9
+2015,93,Waratahs,18,Stormers,32,Michael Fraser,7,8
+2015,94,Force,15,Cheetahs,24,Rohan Hoffmann,7,10
+2015,96,Lions,23,Sharks,21,Stuart Berry,7,10
+2015,95,Bulls,43,Reds,22,Jaco Peyper,8,6
+2015,101,Crusaders,9,Chiefs,26,Nick Briant,12,11
+2015,102,Hurricanes,24,Waratahs,29,Glen Jackson,8,10
+2015,103,Highlanders,30,Blues,24,Chris Pollock,11,6
+2015,104,Brumbies,8,Rebels,13,Angus Gardner,10,7
+2015,105,Force,6,Stormers,13,Michael Fraser,5,8
+2015,106,Sharks,10,Bulls,17,Jaco Peyper,8,9
+2015,107,Cheetahs,17,Reds,18,Jaco Van heerden,8,7
+2015,111,Chiefs,35,Force,27,Angus Gardner,9,8
+2015,112,Brumbies,31,Highlanders,18,Matt O'brien,15,11
+2015,113,Crusaders,29,Blues,15,Chris Pollock,9,6
+2015,114,Waratahs,18,Rebels,16,Rohan Hoffmann,7,10
+2015,115,Lions,34,Cheetahs,29,Jaco Van heerden,9,10
+2015,116,Stormers,15,Bulls,13,Jaco Peyper,6,11
+2015,117,Reds,19,Hurricanes,35,Nick Briant,12,8
+2015,121,Highlanders,48,Sharks,15,Angus Gardner,8,6
+2015,122,Brumbies,10,Waratahs,13,Glen Jackson,9,11
+2015,123,Blues,41,Force,24,Ben O'keeffe,9,10
+2015,124,Hurricanes,29,Crusaders,23,Michael Fraser,14,6
+2015,125,Rebels,16,Chiefs,15,Andrew Lees,7,14
+2015,126,Cheetahs,25,Stormers,17,Craig Joubert,11,4
+2015,127,Bulls,35,Lions,33,Marius van der westhuizen,12,8
+2015,131,Crusaders,58,Reds,17,Michael Fraser,13,9
+2015,132,Rebels,42,Blues,22,Angus Gardner,3,7
+2015,133,Hurricanes,32,Sharks,24,Chris Pollock,9,11
+2015,134,Force,18,Waratahs,11,Rohan Hoffmann,12,14
+2015,135,Lions,28,Highlanders,23,Craig Joubert,3,11
+2015,136,Stormers,25,Brumbies,24,Stuart Berry,5,19
+2015,141,Blues,23,Bulls,18,Michael Fraser,10,8
+2015,142,Reds,46,Rebels,29,Andrew Lees,9,10
+2015,143,Hurricanes,22,Chiefs,18,Glen Jackson,9,14
+2015,144,Waratahs,33,Sharks,18,Rohan Hoffmann,6,10
+2015,145,Lions,20,Brumbies,30,Jaco Peyper,8,14
+2015,146,Cheetahs,24,Highlanders,45,Stuart Berry,4,12
+2015,151,Chiefs,34,Bulls,20,Chris Pollock,12,8
+2015,152,Reds,14,Sharks,21,Angus Gardner,9,7
+2015,153,Blues,5,Hurricanes,29,Nick Briant,9,8
+2015,154,Waratahs,32,Crusaders,22,Marius van der westhuizen,8,8
+2015,155,Force,3,Highlanders,23,Andrew Lees,7,4
+2015,156,Cheetahs,17,Lions,40,Jaco Van heerden,10,8
+2015,157,Stormers,31,Rebels,15,Stuart Berry,10,6
+2015,161,Crusaders,35,Hurricanes,18,Ben O'keeffe,13,6
+2015,162,Brumbies,22,Bulls,16,Marius van der westhuizen,13,10
+2015,163,Sharks,25,Rebels,21,Jaco Van heerden,10,10
+2015,164,Highlanders,36,Chiefs,9,Nick Briant,9,10
+2015,165,Force,10,Reds,32,Matt O'brien,12,11
+2015,166,Stormers,42,Cheetahs,12,Craig Joubert,5,15
+2015,167,Lions,27,Waratahs,22,Jaco Peyper,9,9
+2015,171,Hurricanes,56,Highlanders,20,Jaco Peyper,7,7
+2015,172,Force,20,Brumbies,33,Angus Gardner,11,10
+2015,173,Rebels,21,Bulls,20,Nick Briant,5,12
+2015,174,Blues,11,Crusaders,34,Chris Pollock,10,5
+2015,175,Reds,3,Chiefs,24,Michael Fraser,8,16
+2015,176,Cheetahs,33,Waratahs,58,Glen Jackson,9,7
+2015,177,Stormers,19,Lions,19,Stuart Berry,11,6
+2015,181,Blues,7,Highlanders,44,Angus Gardner,9,7
+2015,182,Rebels,11,Force,13,Andrew Lees,6,10
+2015,183,Brumbies,24,Crusaders,37,Jaco Peyper,13,11
+2015,184,Chiefs,13,Hurricanes,21,Chris Pollock,11,12
+2015,185,Waratahs,31,Reds,5,Nick Briant,6,12
+2015,186,Bulls,29,Cheetahs,42,Craig Joubert,9,12
+2015,187,Sharks,34,Stormers,12,Glen Jackson,15,9
+2015,191,Highlanders,24,Chiefs,14,Chris Pollock,9,8
+2015,192,Stormers,19,Brumbies,39,Jaco Peyper,3,13
+2015,201,Hurricanes,29,Brumbies,9,Glen Jackson,9,11
+2015,202,Waratahs,17,Highlanders,35,Craig Joubert,7,10
+2015,211,Hurricanes,14,Highlanders,21,Jaco Peyper,7,9
+2016,11,Blues,33,Highlanders,31,Glen Jackson,6,11
+2016,12,Brumbies,52,Hurricanes,10,Andrew Lees,12,8
+2016,13,Cheetahs,33,Jaguares,34,Stuart Berry,13,9
+2016,14,Sunwolves,13,Lions,26,Ben O'keeffe,14,11
+2016,15,Crusaders,21,Chiefs,27,Chris Pollock,6,8
+2016,16,NSW Waratahs,30,Reds,10,Angus Gardner,18,10
+2016,17,Force,19,Rebels,25,Marius van der Westhuizen,8,9
+2016,18,Kings,8,Sharks,43,Jaco Van heerden,12,13
+2016,19,Stormers,33,Bulls,9,Craig Joubert,8,12
+2016,21,Crusaders,28,Blues,13,Paul Williams,12,10
+2016,22,Brumbies,32,NSW Waratahs,15,Marius van der westhuizen,9,13
+2016,23,Chiefs,32,Lions,36,Andrew Lees,12,7
+2016,24,Highlanders,17,Hurricanes,16,Glen Jackson,4,10
+2016,25,Reds,6,Force,22,Angus Gardner,10,10
+2016,26,Bulls,45,Rebels,25,Ben O'keeffe,15,7
+2016,27,Cheetahs,10,Stormers,20,Craig Joubert,14,12
+2016,28,Sharks,19,Jaguares,15,Jaco Peyper,8,11
+2016,31,Blues,19,Hurricanes,23,Nick Briant,9,11
+2016,32,Force,14,Brumbies,31,Andrew Lees,17,10
+2016,33,Highlanders,34,Lions,15,Chris Pollock,10,5
+2016,34,Rebels,25,Reds,23,Paul Williams,8,13
+2016,35,Sunwolves,31,Cheetahs,32,Quinton Immelman,9,6
+2016,36,Kings,24,Chiefs,58,Jaco Van heerden,8,13
+2016,37,Stormers,13,Sharks,18,Michael Fraser,9,8
+2016,41,Hurricanes,41,Force,6,Paul Williams,10,10
+2016,42,NSW Waratahs,26,Highlanders,30,Nick Briant,4,10
+2016,43,Bulls,16,Sharks,16,Glen Jackson,9,11
+2016,44,Sunwolves,9,Rebels,35,Michael Fraser,12,6
+2016,45,Crusaders,57,Kings,24,William Houston,10,7
+2016,46,Reds,25,Blues,25,Andrew Lees,7,14
+2016,47,Lions,39,Cheetahs,22,Stuart Berry,11,6
+2016,48,Stormers,31,Brumbies,11,Jaco Peyper,5,8
+2016,49,Jaguares,26,Chiefs,30,Chris Pollock,10,10
+2016,51,Hurricanes,42,Kings,20,Brendon Pickerill,9,11
+2016,52,Chiefs,53,Force,10,Michael Fraser,5,5
+2016,53,Rebels,3,Highlanders,27,Andrew Lees,8,9
+2016,54,Sunwolves,27,Bulls,30,Will Houston,16,8
+2016,55,Cheetahs,18,Brumbies,25,Glen Jackson,13,16
+2016,56,Sharks,14,Crusaders,19,Jaco Peyper,10,9
+2016,57,Jaguares,8,Stormers,13,Chris Pollock,12,13
+2016,58,Reds,13,NSW Waratahs,15,Ben O'keeffe,8,16
+2016,61,Highlanders,32,Force,20,Brendon Pickerill,5,6
+2016,62,Lions,37,Crusaders,43,Stuart Berry,6,12
+2016,63,Blues,24,Jaguares,16,Michael Fraser,12,11
+2016,64,Brumbies,23,Chiefs,48,Angus Gardner,8,11
+2016,65,Kings,33,Sunwolves,28,Rasta Rasivhenge,10,11
+2016,66,Bulls,23,Cheetahs,18,Craig Joubert,12,12
+2016,67,NSW Waratahs,17,Rebels,21,Andrew Lees,11,7
+2016,71,Chiefs,29,Blues,23,Jamie Nutbrown,10,4
+2016,72,Force,19,Crusaders,20,Ben O'keeffe,10,8
+2016,73,Stormers,46,Sunwolves,19,Nic Berry,11,11
+2016,74,Hurricanes,40,Jaguares,22,Nick Briant,9,9
+2016,75,Reds,28,Highlanders,27,Glen Jackson,9,7
+2016,76,Sharks,9,Lions,24,Angus Gardner,13,6
+2016,77,Kings,6,Bulls,38,Shuhei Kubo,8,13
+2016,81,Crusaders,32,Jaguares,15,Craig Joubert,7,11
+2016,82,Rebels,13,Hurricanes,38,Rohan Hoffmann,7,12
+2016,83,Cheetahs,92,Sunwolves,17,Nic Berry,7,7
+2016,84,Blues,23,Sharks,18,Jaco Peyper,5,10
+2016,85,NSW Waratahs,20,Brumbies,26,Nick Briant,8,12
+2016,86,Bulls,41,Reds,22,Angus Gardner,4,8
+2016,87,Lions,29,Stormers,22,Stuart Berry,10,11
+2016,91,Highlanders,14,Sharks,15,Ben O'keeffe,9,12
+2016,92,Rebels,36,Cheetahs,14,Glen Jackson,12,13
+2016,93,Sunwolves,36,Jaguares,28,Jamie Nutbrown,6,11
+2016,94,Hurricanes,27,Chiefs,28,Craig Joubert,4,10
+2016,95,Force,13,NSW Waratahs,49,Rohan Hoffmann,6,6
+2016,96,Stormers,40,Reds,22,Marius van der westhuizen,5,10
+2016,97,Kings,10,Lions,45,Rasta Rasivhenge,10,8
+2016,98,Brumbies,14,Crusaders,40,Jaco Peyper,11,8
+2016,101,Chiefs,24,Sharks,22,Chris Pollock,7,13
+2016,102,Force,20,Bulls,42,Jaco Van heerden,16,8
+2016,104,Blues,36,Rebels,30,Craig Joubert,11,7
+2016,103,Highlanders,23,Brumbies,10,Nick Briant,12,9
+2016,105,Reds,30,Cheetahs,17,Ben O'keeffe,12,13
+2016,106,Lions,17,Hurricanes,50,Marius van der westhuizen,5,8
+2016,107,Stormers,30,NSW Waratahs,32,Michael Fraser,8,10
+2016,108,Jaguares,73,Kings,27,Stuart Berry,10,10
+2016,111,Crusaders,38,Reds,5,Brendon Pickerill,14,10
+2016,112,Brumbies,23,Bulls,6,Ben O'keeffe,9,14
+2016,113,Sunwolves,22,Force,40,Michael Fraser,8,9
+2016,114,Chiefs,13,Highlanders,26,Angus Gardner,10,9
+2016,115,NSW Waratahs,21,Cheetahs,6,Nic Berry,7,13
+2016,116,Sharks,32,Hurricanes,15,Marius van der westhuizen,7,11
+2016,117,Kings,18,Blues,34,Federico Anselmi,12,8
+2016,121,Highlanders,34,Crusaders,26,Chris Pollock,11,7
+2016,122,Rebels,22,Brumbies,30,Rohan Hoffmann,9,10
+2016,123,Hurricanes,29,Reds,14,Brendon Pickerill,12,5
+2016,124,NSW Waratahs,31,Bulls,8,Glen Jackson,6,13
+2016,125,Sunwolves,17,Stormers,17,Paul Williams,8,12
+2016,126,Cheetahs,34,Kings,20,Federico Anselmi,12,7
+2016,127,Lions,43,Blues,5,Jaco Van heerden,9,10
+2016,128,Jaguares,22,Sharks,25,Marius van der westhuizen,11,10
+2016,131,Crusaders,29,NSW Waratahs,10,Jaco Peyper,6,8
+2016,132,Reds,35,Sunwolves,25,Will Houston,8,11
+2016,133,Chiefs,36,Rebels,15,Angus Gardner,9,5
+2016,134,Force,13,Blues,17,Jamie Nutbrown,3,15
+2016,135,Lions,52,Jaguares,24,Stuart Berry,10,7
+2016,136,Sharks,53,Kings,0,Quinton Immelman,2,13
+2016,137,Bulls,17,Stormers,13,Ben O'keeffe,14,11
+2016,141,Hurricanes,27,Highlanders,20,Michael Fraser,8,4
+2016,142,NSW Waratahs,45,Chiefs,25,Jaco Peyper,6,5
+2016,143,Kings,29,Jaguares,22,Nick Briant,14,12
+2016,144,Blues,21,Crusaders,26,Angus Gardner,12,7
+2016,145,Brumbies,66,Sunwolves,5,Jaco Van heerden,6,4
+2016,146,Stormers,31,Cheetahs,24,Glen Jackson,12,12
+2016,147,Bulls,20,Lions,56,Craig Joubert,13,7
+2016,148,Rebels,27,Force,22,Chris Pollock,8,7
+2016,151,Chiefs,23,Crusaders,13,Nick Briant,9,6
+2016,152,Brumbies,43,Reds,24,Andrew Lees,10,7
+2016,153,Sunwolves,12,NSW Waratahs,57,Brendon Pickerill,7,5
+2016,154,Hurricanes,37,Blues,27,Chris Pollock,9,6
+2016,155,Rebels,31,Stormers,57,Angus Gardner,8,5
+2016,156,Cheetahs,30,Force,29,Shuhei Kubo,6,5
+2016,158,Lions,37,Sharks,10,Jaco Peyper,8,8
+2016,157,Kings,18,Highlanders,48,Marius van der westhuizen,9,4
+2016,159,Jaguares,29,Bulls,11,Craig Joubert,14,10
+2016,161,Blues,40,Brumbies,15,Ben O'keeffe,11,6
+2016,162,Reds,5,Chiefs,50,Nick Briant,6,10
+2016,163,Lions,57,Kings,21,Jaco Van heerden,7,14
+2016,164,Crusaders,85,Rebels,26,Glen Jackson,10,4
+2016,165,NSW Waratahs,17,Hurricanes,28,Chris Pollock,9,8
+2016,166,Force,3,Stormers,22,Michael Fraser,13,9
+2016,167,Bulls,50,Sunwolves,3,Quinton Immelman,12,5
+2016,168,Sharks,26,Cheetahs,10,Stuart Berry,13,5
+2016,169,Jaguares,8,Highlanders,34,Angus Gardner,8,11
+2016,171,Blues,34,NSW Waratahs,28,Michael Fraser,12,10
+2016,172,Reds,28,Rebels,31,Will Houston,9,17
+2016,173,Sharks,40,Sunwolves,29,Rasta Rasivhenge,8,5
+2016,174,Crusaders,10,Hurricanes,35,Ben O'keeffe,7,8
+2016,175,Highlanders,25,Chiefs,15,Glen Jackson,6,9
+2016,176,Brumbies,24,Force,10,Paul Williams,4,12
+2016,177,Stormers,52,Kings,24,Jaco Peyper,12,10
+2016,178,Cheetahs,17,Bulls,43,Craig Joubert,13,10
+2016,179,Jaguares,34,Lions,22,Rohan Hoffmann,7,17
+2016,184,Brumbies,9,Highlanders,15,Angus Gardner,10,13
+2016,181,Hurricanes,41,Sharks,0,Glen Jackson,10,9
+2016,182,Lions,42,Crusaders,25,Craig Joubert,6,9
+2016,183,Stormers,21,Chiefs,60,Jaco Peyper,5,8
+2016,191,Hurricanes,25,Chiefs,9,Angus Gardner,13,5
+2016,192,Lions,42,Highlanders,30,Jaco Peyper,8,8
+2016,201,Hurricanes,20,Lions,3,Glen Jackson,11,9
+2017,11,Rebels,18,Blues,56,Angus Gardner,5,11
+2017,12,Highlanders,15,Chiefs,24,Michael Fraser,10,11
+2017,13,Reds,28,Sharks,26,Nick Briant,11,11
+2017,14,Sunwolves,17,Hurricanes,83,Egon Seconds,6,15
+2017,15,Crusaders,17,Brumbies,13,Glen Jackson,8,7
+2017,16,NSW Waratahs,19,Force,13,Ben O'keeffe,9,15
+2017,17,Cheetahs,25,Lions,28,Quinton Immelman,12,10
+2017,18,Kings,26,Jaguares,39,Jaco Peyper,9,12
+2017,19,Stormers,37,Bulls,24,Jaco Van heerden,12,12
+2017,21,Force,26,Reds,19,Federico Anselmi,12,17
+2017,22,Chiefs,41,Blues,26,Ben O'keeffe,14,5
+2017,23,Hurricanes,71,Rebels,6,Nic Berry,5,8
+2017,24,Highlanders,27,Crusaders,30,Paul Williams,10,6
+2017,25,Brumbies,22,Sharks,27,Angus Gardner,11,10
+2017,26,Sunwolves,23,Kings,37,Marius van der westhuizen,9,10
+2017,27,Lions,55,NSW Waratahs,36,Jaco Van heerden,8,15
+2017,28,Stormers,32,Jaguares,25,Jaco Peyper,8,11
+2017,29,Cheetahs,34,Bulls,28,Shuhei Kubo,7,7
+2017,31,Chiefs,26,Hurricanes,18,Brendon Pickerill,9,9
+2017,32,Brumbies,25,Force,17,Peter Hoffmann,8,15
+2017,34,Blues,12,Highlanders,16,Glen Jackson,4,8
+2017,35,Reds,20,Crusaders,22,Will Houston,8,10
+2017,37,Kings,10,Stormers,41,Shuhei Kubo,15,10
+2017,36,Cheetahs,38,Sunwolves,31,Rasta Rasivhenge,7,10
+2017,33,Sharks,37,NSW Waratahs,14,Marius van der westhuizen,6,11
+2017,38,Jaguares,36,Lions,24,Nick Briant,11,11
+2017,41,Crusaders,33,Blues,24,Brendon Pickerill,9,12
+2017,42,Rebels,14,Chiefs,27,Federico Anselmi,9,12
+2017,43,Bulls,34,Sunwolves,21,Jamie Nutbrown,7,9
+2017,44,Hurricanes,41,Highlanders,15,Angus Gardner,5,6
+2017,45,NSW Waratahs,12,Brumbies,28,Glen Jackson,9,7
+2017,46,Lions,44,Reds,14,Michael Fraser,8,13
+2017,47,Sharks,19,Kings,17,Egon Seconds,7,12
+2017,48,Jaguares,41,Cheetahs,14,Paul Williams,12,13
+2017,51,Crusaders,45,Force,17,Rohan Hoffmann,17,13
+2017,52,Rebels,25,NSW Waratahs,32,Brendon Pickerill,15,7
+2017,53,Blues,38,Bulls,14,Nic Berry,10,11
+2017,54,Brumbies,13,Highlanders,18,Marius van der westhuizen,8,9
+2017,55,Sunwolves,31,Stormers,44,Federico Anselmi,10,5
+2017,56,Kings,19,Lions,42,Quinton Immelman,8,7
+2017,57,Cheetahs,30,Sharks,38,Jaco Peyper,11,11
+2017,58,Jaguares,22,Reds,8,Michael Fraser,14,10
+2017,61,Highlanders,51,Rebels,12,Glen Jackson,7,10
+2017,62,Blues,24,Force,15,Shuhei Kubo,5,9
+2017,63,Chiefs,28,Bulls,12,Nick Briant,11,11
+2017,64,Reds,15,Hurricanes,34,Angus Gardner,5,9
+2017,65,Stormers,53,Cheetahs,10,Rasta Rasivhenge,10,5
+2017,66,Lions,34,Sharks,29,Jaco Van heerden,8,15
+2017,67,NSW Waratahs,22,Crusaders,41,Marius van der westhuizen,8,9
+2017,71,Hurricanes,38,NSW Waratahs,28,Marius van der westhuizen,9,3
+2017,72,Sunwolves,21,Bulls,20,Will Houston,8,9
+2017,73,Highlanders,26,Blues,20,Jamie Nutbrown,10,6
+2017,74,Brumbies,43,Reds,10,Nick Briant,6,12
+2017,75,Sharks,18,Jaguares,13,Angus Gardner,8,7
+2017,76,Stormers,34,Chiefs,26,Jaco Peyper,7,5
+2017,77,Force,46,Kings,41,Rasta Rasivhenge,7,8
+2017,81,Crusaders,50,Sunwolves,3,Nic Berry,8,12
+2017,82,Reds,47,Kings,34,Quinton Immelman,7,10
+2017,83,Blues,24,Hurricanes,28,Michael Fraser,7,8
+2017,84,Rebels,19,Brumbies,17,Glen Jackson,10,12
+2017,85,Cheetahs,27,Chiefs,41,Jaco Van heerden,5,14
+2017,86,Stormers,16,Lions,29,Jaco Peyper,11,7
+2017,87,Bulls,26,Jaguares,13,Ben O'keeffe,11,13
+2017,91,Hurricanes,56,Brumbies,21,Brendon Pickerill,5,8
+2017,95,NSW Waratahs,24,Kings,26,Rohan Hoffmann,16,11
+2017,92,Lions,24,Jaguares,21,Angus Gardner,9,12
+2017,93,Highlanders,40,Sunwolves,15,Jamie Nutbrown,11,6
+2017,94,Crusaders,57,Stormers,24,Paul Williams,8,10
+2017,96,Force,7,Chiefs,16,Nic Berry,7,10
+2017,97,Bulls,20,Cheetahs,14,Ben O'keeffe,12,8
+2017,98,Sharks,9,Rebels,9,Marius van der westhuizen,6,19
+2017,101,Highlanders,57,Stormers,14,Glen Jackson,12,9
+2017,102,Chiefs,27,Sunwolves,20,Will Houston,12,12
+2017,103,Reds,26,NSW Waratahs,29,Paul Williams,16,4
+2017,104,Force,15,Lions,24,Michael Fraser,15,9
+2017,105,Cheetahs,21,Crusaders,48,Federico Anselmi,11,10
+2017,106,Kings,44,Rebels,3,Marius van der westhuizen,11,5
+2017,107,Jaguares,25,Sharks,33,Jaco Peyper,8,10
+2017,108,Brumbies,12,Blues,18,Nick Briant,7,8
+2017,111,Hurricanes,41,Stormers,22,Glen Jackson,16,14
+2017,112,Cheetahs,41,Highlanders,45,Marius van der westhuizen,10,8
+2017,113,Rebels,10,Lions,47,Shuhei Kubo,6,12
+2017,114,Chiefs,46,Reds,17,Jamie Nutbrown,10,5
+2017,115,NSW Waratahs,33,Blues,40,Angus Gardner,8,9
+2017,116,Sharks,37,Force,12,Rasta Rasivhenge,4,10
+2017,117,Bulls,24,Crusaders,62,Nic Berry,10,8
+2017,118,Jaguares,46,Sunwolves,39,Jaco Van heerden,9,11
+2017,121,Blues,50,Cheetahs,32,Brendon Pickerill,12,11
+2017,122,Brumbies,6,Lions,13,Paul Williams,8,11
+2017,123,Crusaders,20,Hurricanes,12,Jaco Peyper,11,12
+2017,124,Rebels,24,Reds,29,Marius van der westhuizen,8,11
+2017,125,Bulls,10,Highlanders,17,Jaco Van heerden,4,8
+2017,126,Kings,35,Sharks,32,Federico Anselmi,11,6
+2017,127,Jaguares,6,Force,16,Ben O'keeffe,10,10
+2017,131,Chiefs,24,Crusaders,31,Michael Fraser,9,4
+2017,132,Stormers,30,Blues,22,Jaco Van heerden,9,13
+2017,133,Hurricanes,61,Cheetahs,7,Nic Berry,8,11
+2017,134,Force,6,Highlanders,55,Shuhei Kubo,7,5
+2017,135,Sunwolves,17,Sharks,38,Rohan Hoffmann,10,7
+2017,137,Lions,51,Bulls,14,Quinton Immelman,9,10
+2017,136,Kings,10,Brumbies,19,Jaco Peyper,12,6
+2017,138,NSW Waratahs,50,Rebels,23,Angus Gardner,10,5
+2017,141,Blues,16,Chiefs,16,Nick Briant,4,11
+2017,142,Reds,26,Force,40,Brendon Pickerill,11,6
+2017,143,Sunwolves,7,Cheetahs,47,Will Houston,10,7
+2017,144,Highlanders,44,NSW Waratahs,28,Ben O'keeffe,8,11
+2017,145,Rebels,19,Crusaders,41,Glen Jackson,8,13
+2017,146,Bulls,20,Hurricanes,34,Egon Seconds,5,14
+2017,147,Sharks,22,Stormers,10,Marius van der westhuizen,14,6
+2017,148,Jaguares,15,Brumbies,39,Michael Fraser,9,8
+2017,149,Lions,54,Kings,10,Jaco Peyper,11,8
+2017,151,Blues,34,Reds,29,Ben O'keeffe,7,4
+2017,152,Crusaders,25,Highlanders,22,Glen Jackson,9,8
+2017,153,Chiefs,46,NSW Waratahs,31,Paul Williams,12,8
+2017,154,Brumbies,32,Rebels,3,Nick Briant,6,10
+2017,155,Force,12,Hurricanes,34,Rohan Hoffmann,8,14
+2017,159,Sharks,17,Bulls,30,Angus Gardner,11,6
+2017,156,Jaguares,30,Kings,31,Jamie Nutbrown,9,12
+2017,158,Cheetahs,34,Stormers,40,Jaco Van heerden,14,11
+2017,157,Lions,94,Sunwolves,7,Egon Seconds,6,3
+2017,161,Hurricanes,14,Chiefs,17,Nick Briant,4,7
+2017,162,Reds,16,Brumbies,15,Brendon Pickerill,7,6
+2017,163,Force,31,Rebels,22,Will Houston,12,6
+2017,164,NSW Waratahs,27,Jaguares,40,Ben O'keeffe,12,15
+2017,165,Bulls,30,Kings,31,Federico Anselmi,6,11
+2017,166,Stormers,52,Sunwolves,15,Quinton Immelman,3,4
+2017,171,Highlanders,40,Reds,17,Michael Fraser,6,8
+2017,172,Rebels,29,Jaguares,32,Angus Gardner,7,9
+2017,173,Kings,20,Cheetahs,21,Shuhei Kubo,15,9
+2017,174,Sunwolves,48,Blues,21,Rasta Rasivhenge,7,7
+2017,175,Chiefs,28,Brumbies,10,Ben O'keeffe,11,11
+2017,176,Hurricanes,31,Crusaders,22,Glen Jackson,7,15
+2017,177,Force,40,NSW Waratahs,11,Nic Berry,9,14
+2017,179,Bulls,33,Stormers,41,Quinton Immelman,9,4
+2017,178,Sharks,10,Lions,27,Marius van der westhuizen,14,7
+2017,184,Brumbies,16,Hurricanes,35,Glen Jackson,7,10
+2017,182,Crusaders,17,Highlanders,0,Angus Gardner,6,9
+2017,181,Lions,23,Sharks,21,Marius van der westhuizen,6,13
+2017,183,Stormers,11,Chiefs,17,Jaco Peyper,9,10
+2017,192,Crusaders,27,Chiefs,13,Glen Jackson,7,5
+2017,191,Lions,44,Hurricanes,29,Jaco Peyper,5,8
+2017,201,Lions,17,Crusaders,25,Jaco Peyper,11,11
+2018,11,Stormers,28,Jaguares,20,Jaco Peyper,13,15
+2018,12,Lions,26,Sharks,19,Glen Jackson,7,11
+2018,21,Highlanders,41,Blues,34,Jamie Nutbrown,7,11
+2018,22,Rebels,45,Reds,19,Brendon Pickerill,11,8
+2018,23,Sunwolves,25,Brumbies,32,Paul Williams,10,7
+2018,24,Crusaders,45,Chiefs,23,Ben O'keeffe,10,10
+2018,25,NSW Waratahs,34,Stormers,27,Angus Gardner,12,9
+2018,26,Lions,47,Jaguares,27,Jaco Peyper,9,12
+2018,27,Bulls,21,Hurricanes,19,Rasta Rasivhenge,10,12
+2018,31,Blues,21,Chiefs,27,Ben O'keeffe,8,10
+2018,32,Reds,18,Brumbies,10,Angus Gardner,5,13
+2018,34,Sunwolves,17,Rebels,37,Egon Seconds,3,16
+2018,33,Crusaders,45,Stormers,28,Nic Berry,11,8
+2018,35,Sharks,24,NSW Waratahs,24,Jaco Peyper,3,8
+2018,36,Bulls,35,Lions,49,Marius van der westhuizen,11,12
+2018,37,Jaguares,9,Hurricanes,34,Nick Briant,11,15
+2018,41,Highlanders,33,Stormers,15,Glen Jackson,11,8
+2018,42,Rebels,33,Brumbies,10,Will Houston,13,8
+2018,43,Hurricanes,29,Crusaders,19,Brendon Pickerill,11,12
+2018,44,Reds,20,Bulls,14,Jamie Nutbrown,5,15
+2018,45,Sharks,50,Sunwolves,22,Federico Anselmi,10,4
+2018,46,Lions,35,Blues,38,Nic Berry,6,6
+2018,47,Jaguares,38,NSW Waratahs,28,Michael Fraser,8,10
+2018,51,Chiefs,41,Bulls,28,Shuhei Kubo,12,9
+2018,52,Highlanders,25,Crusaders,17,Nick Briant,9,7
+2018,53,Brumbies,24,Sharks,17,Glen Jackson,12,14
+2018,54,Stormers,37,Blues,20,Nic Berry,12,10
+2018,55,Lions,40,Sunwolves,38,Rasta Rasivhenge,8,12
+2018,56,Jaguares,7,Reds,18,Paul Williams,10,14
+2018,57,NSW Waratahs,51,Rebels,27,Brendon Pickerill,5,6
+2018,61,Crusaders,33,Bulls,14,Federico Anselmi,12,8
+2018,62,Rebels,46,Sharks,14,Shuhei Kubo,9,11
+2018,63,Sunwolves,10,Chiefs,61,Will Houston,6,11
+2018,64,Hurricanes,29,Highlanders,12,Michael Fraser,6,8
+2018,65,Stormers,25,Reds,19,Marius van der westhuizen,5,11
+2018,66,Jaguares,49,Lions,35,Jamie Nutbrown,12,6
+2018,71,Chiefs,27,Highlanders,22,Glen Jackson,6,6
+2018,72,Rebels,19,Hurricanes,50,Angus Gardner,12,10
+2018,73,Blues,40,Sharks,63,Nick Briant,10,6
+2018,74,Brumbies,17,NSW Waratahs,24,Paul Williams,10,10
+2018,75,Bulls,33,Stormers,23,Marius van der westhuizen,12,12
+2018,76,Lions,8,Crusaders,14,Jaco Peyper,8,12
+2018,81,Hurricanes,38,Sharks,37,Nic Berry,5,16
+2018,82,Sunwolves,29,NSW Waratahs,50,Angus Gardner,3,15
+2018,83,Chiefs,21,Blues,19,Paul Williams,9,12
+2018,84,Brumbies,45,Reds,21,Ben O'keeffe,11,10
+2018,85,Lions,52,Stormers,31,Jaco Peyper,13,7
+2018,86,Jaguares,14,Crusaders,40,Marius van der westhuizen,6,11
+2018,91,Hurricanes,25,Chiefs,13,Jamie Nutbrown,10,11
+2018,92,Sunwolves,10,Blues,24,Nick Briant,9,7
+2018,93,Rebels,22,Jaguares,25,Nic Berry,14,9
+2018,94,Highlanders,43,Brumbies,17,Ben O'keeffe,12,2
+2018,95,NSW Waratahs,37,Reds,16,Angus Gardner,10,7
+2018,96,Sharks,10,Bulls,40,Egon Seconds,11,10
+2018,101,Blues,16,Highlanders,34,Marius van der westhuizen,7,8
+2018,102,NSW Waratahs,0,Lions,29,Michael Fraser,12,8
+2018,103,Crusaders,33,Sunwolves,11,Brendon Pickerill,8,12
+2018,104,Reds,12,Chiefs,36,Jaco Peyper,8,11
+2018,105,Bulls,28,Rebels,10,Ben O'keeffe,14,11
+2018,106,Sharks,24,Stormers,17,Glen Jackson,10,7
+2018,107,Brumbies,20,Jaguares,25,Angus Gardner,10,10
+2018,111,Hurricanes,43,Sunwolves,15,Jamie Nutbrown,9,12
+2018,112,Stormers,34,Rebels,18,Ben O'keeffe,13,12
+2018,113,Reds,27,Lions,22,Angus Gardner,9,12
+2018,114,Blues,13,Jaguares,20,Paul Williams,15,9
+2018,115,Brumbies,8,Crusaders,21,Jaco Peyper,11,12
+2018,116,Bulls,28,Highlanders,29,Glen Jackson,12,14
+2018,121,Chiefs,19,Jaguares,23,Michael Fraser,10,12
+2018,122,Rebels,10,Crusaders,55,Nick Briant,12,6
+2018,124,Hurricanes,28,Lions,19,Nic Berry,12,10
+2018,123,NSW Waratahs,21,Blues,24,Jaco Peyper,12,9
+2018,125,Stormers,29,Bulls,17,Glen Jackson,13,14
+2018,126,Sharks,38,Highlanders,12,Marius van der westhuizen,6,10
+2018,131,Blues,15,Hurricanes,36,Jaco Peyper,14,6
+2018,132,Sunwolves,63,Reds,28,Egon Seconds,7,12
+2018,133,Crusaders,31,NSW Waratahs,29,Ben O'keeffe,7,17
+2018,134,Highlanders,39,Lions,27,Angus Gardner,12,8
+2018,135,Brumbies,24,Rebels,27,Nic Berry,10,12
+2018,136,Stormers,9,Chiefs,15,Michael Fraser,15,8
+2018,137,Bulls,39,Sharks,33,Rasta Rasivhenge,10,5
+2018,141,Hurricanes,38,Reds,34,Ben O'keeffe,6,7
+2018,142,Sunwolves,26,Stormers,23,Nic Berry,9,3
+2018,143,Blues,24,Crusaders,32,Glen Jackson,10,7
+2018,144,NSW Waratahs,41,Highlanders,12,Brendon Pickerill,7,9
+2018,145,Sharks,28,Chiefs,24,Michael Fraser,5,10
+2018,146,Lions,42,Brumbies,24,Nick Briant,9,17
+2018,147,Jaguares,54,Bulls,24,Federico Anselmi,7,11
+2018,151,Crusaders,24,Hurricanes,13,Angus Gardner,6,14
+2018,152,Rebels,40,Sunwolves,13,Federico Anselmi,11,7
+2018,153,Jaguares,29,Sharks,13,Paul Williams,9,10
+2018,154,Chiefs,39,NSW Waratahs,27,Glen Jackson,8,5
+2018,155,Reds,15,Highlanders,18,Rasta Rasivhenge,10,6
+2018,156,Bulls,28,Brumbies,38,Marius van der westhuizen,11,11
+2018,157,Stormers,23,Lions,26,Nick Briant,13,14
+2018,161,Highlanders,30,Hurricanes,14,Ben O'keeffe,12,12
+2018,162,Blues,10,Rebels,20,Nick Briant,13,10
+2018,163,Chiefs,20,Crusaders,34,Nic Berry,10,8
+2018,164,Reds,41,NSW Waratahs,52,Angus Gardner,7,10
+2018,165,Brumbies,41,Sunwolves,31,Rasta Rasivhenge,5,10
+2018,171,Blues,39,Reds,16,Egon Seconds,14,11
+2018,172,Rebels,26,NSW Waratahs,31,Nic Berry,8,14
+2018,173,Highlanders,22,Chiefs,45,Paul Williams,10,9
+2018,174,Brumbies,24,Hurricanes,12,Nick Briant,6,12
+2018,175,Sunwolves,42,Bulls,37,Ben O'keeffe,11,7
+2018,176,Sharks,31,Lions,24,Jaco Peyper,10,7
+2018,177,Jaguares,25,Stormers,14,Angus Gardner,11,9
+2018,181,Crusaders,45,Highlanders,22,Brendon Pickerill,10,11
+2018,182,Reds,37,Rebels,23,Paul Williams,11,17
+2018,183,Chiefs,24,Brumbies,19,Rasta Rasivhenge,12,3
+2018,184,Hurricanes,42,Blues,24,Ben O'keeffe,8,8
+2018,185,NSW Waratahs,77,Sunwolves,25,Federico Anselmi,5,8
+2018,186,Bulls,43,Jaguares,34,Egon Seconds,13,10
+2018,187,Stormers,27,Sharks,16,Jaco Peyper,6,11
+2018,191,Chiefs,28,Hurricanes,24,Michael Fraser,8,5
+2018,192,Reds,48,Sunwolves,27,Ben O'keeffe,10,7
+2018,193,Highlanders,43,Rebels,37,Glen Jackson,9,8
+2018,194,Crusaders,54,Blues,17,Federico Anselmi,11,4
+2018,195,NSW Waratahs,31,Brumbies,40,Angus Gardner,9,8
+2018,196,Lions,38,Bulls,12,Marius van der westhuizen,6,14
+2018,197,Sharks,20,Jaguares,10,Rasta Rasivhenge,3,9
+2018,201,Hurricanes,32,Chiefs,31,Glen Jackson,10,8
+2018,202,Crusaders,40,Sharks,10,Michael Fraser,10,8
+2018,203,NSW Waratahs,30,Highlanders,23,Angus Gardner,9,9
+2018,204,Lions,40,Jaguares,23,Jaco Peyper,10,13
+2018,211,Crusaders,30,Hurricanes,12,Jaco Peyper,5,7
+2018,212,Lions,44,NSW Waratahs,26,Glen Jackson,7,15
+2018,221,Crusaders,37,Lions,18,Angus Gardner,15,6
+2019,11,Chiefs,27,Highlanders,30,Glen Jackson,10,7
+2019,12,Brumbies,27,Rebels,34,Ben O'keeffe,6,11
+2019,13,Blues,22,Crusaders,24,Nick Briant,11,13
+2019,14,NSW Waratahs,19,Hurricanes,20,Angus Gardner,14,12
+2019,15,Sunwolves,10,Sharks,45,Nic Berry,16,7
+2019,16,Bulls,40,Stormers,3,Jaco Peyper,12,8
+2019,17,Jaguares,16,Lions,25,Michael Fraser,14,10
+2019,21,Highlanders,36,Reds,31,Federico Anselmi,6,8
+2019,22,Sunwolves,30,NSW Waratahs,31,AJ Jacobs,9,8
+2019,23,Crusaders,38,Hurricanes,22,Ben O'keeffe,13,13
+2019,24,Brumbies,54,Chiefs,17,Angus Gardner,10,8
+2019,25,Sharks,26,Blues,7,Paul Williams,11,9
+2019,26,Stormers,19,Lions,17,Egon Seconds,13,15
+2019,27,Jaguares,27,Bulls,12,Brendon Pickerill,12,10
+2019,31,Hurricanes,43,Brumbies,13,Nick Briant,13,6
+2019,32,Rebels,24,Highlanders,19,AJ Jacobs,10,8
+2019,33,Chiefs,15,Sunwolves,30,Federico Anselmi,4,14
+2019,34,Reds,12,Crusaders,22,Marius van der westhuizen,9,7
+2019,35,Lions,12,Bulls,30,Paul Williams,11,10
+2019,36,Sharks,11,Stormers,16,Jaco Peyper,12,7
+2019,37,Jaguares,23,Blues,19,Rasta Rasivhenge,10,7
+2019,41,Hurricanes,25,Highlanders,22,Damon Murphy,9,12
+2019,42,Rebels,29,Brumbies,26,AJ Jacobs,12,12
+2019,43,Crusaders,57,Chiefs,28,Brendon Pickerill,11,5
+2019,44,Blues,28,Sunwolves,20,Michael Fraser,3,15
+2019,45,NSW Waratahs,28,Reds,17,Glen Jackson,14,10
+2019,46,Lions,47,Jaguares,39,Rasta Rasivhenge,9,9
+2019,47,Bulls,37,Sharks,14,Marius van der westhuizen,6,7
+2019,51,Chiefs,23,Hurricanes,23,Michael Fraser,7,6
+2019,52,Brumbies,19,NSW Waratahs,13,Glen Jackson,9,10
+2019,53,Stormers,35,Jaguares,8,Jaco Peyper,6,9
+2019,54,Sunwolves,31,Reds,34,Damon Murphy,11,4
+2019,56,Lions,36,Rebels,33,Egon Seconds,1,20
+2019,61,Blues,33,Highlanders,26,Marius van der westhuizen,10,7
+2019,62,Hurricanes,34,Stormers,28,Glen Jackson,11,7
+2019,63,NSW Waratahs,20,Crusaders,12,Jaco Peyper,3,6
+2019,64,Sunwolves,24,Lions,37,Damon Murphy,12,6
+2019,65,Bulls,20,Chiefs,56,AJ Jacobs,9,4
+2019,66,Sharks,28,Rebels,14,Rasta Rasivhenge,7,11
+2019,67,Reds,36,Brumbies,14,Paul Williams,10,7
+2019,71,Hurricanes,8,Crusaders,32,Ben O'keeffe,8,14
+2019,72,NSW Waratahs,29,Sunwolves,31,Paul Williams,5,6
+2019,73,Blues,24,Stormers,9,Nick Briant,12,7
+2019,74,Reds,13,Rebels,32,AJ Jacobs,8,8
+2019,75,Sharks,16,Bulls,19,Michael Fraser,8,11
+2019,76,Jaguares,27,Chiefs,30,Angus Gardner,9,10
+2019,81,Highlanders,28,Hurricanes,31,Glen Jackson,6,11
+2019,82,Reds,24,Stormers,12,Marius van der westhuizen,8,11
+2019,83,Lions,5,Sharks,42,Michael Fraser,11,5
+2019,84,Crusaders,36,Brumbies,14,Jaco Peyper,9,9
+2019,85,Blues,32,NSW Waratahs,29,Federico Anselmi,7,7
+2019,86,Rebels,42,Sunwolves,15,Nic Berry,16,6
+2019,87,Bulls,20,Jaguares,22,Brendon Pickerill,9,15
+2019,91,Crusaders,43,Highlanders,17,Ben O'keeffe,18,6
+2019,92,Rebels,24,Stormers,41,Michael Fraser,7,8
+2019,93,Chiefs,33,Blues,29,Angus Gardner,8,7
+2019,94,Brumbies,31,Lions,20,Rasta Rasivhenge,12,7
+2019,95,Sharks,17,Jaguares,51,Nick Briant,11,5
+2019,96,Bulls,32,Reds,17,Glen Jackson,12,10
+2019,101,Chiefs,17,Lions,23,Brendon Pickerill,8,6
+2019,103,Sunwolves,23,Hurricanes,29,Angus Gardner,11,11
+2019,102,Sharks,14,Reds,21,Federico Anselmi,7,8
+2019,104,Highlanders,24,Blues,12,Paul Williams,7,8
+2019,105,NSW Waratahs,23,Rebels,20,Damon Murphy,8,12
+2019,106,Stormers,17,Brumbies,19,Nick Briant,8,12
+2019,111,Crusaders,36,Lions,10,Paul Williams,10,11
+2019,112,Sunwolves,0,Highlanders,52,Ben O'keeffe,10,9
+2019,113,Hurricanes,47,Chiefs,19,Rasta Rasivhenge,6,4
+2019,114,NSW Waratahs,15,Sharks,23,Nic Berry,8,9
+2019,115,Stormers,24,Bulls,23,Glen Jackson,9,5
+2019,116,Jaguares,20,Brumbies,15,Marius van der westhuizen,12,6
+2019,121,Crusaders,21,Sharks,21,Brendon Pickerill,13,10
+2019,122,Reds,32,Sunwolves,26,Angus Gardner,11,17
+2019,123,Hurricanes,29,Rebels,19,Nic Berry,12,3
+2019,124,Highlanders,31,Chiefs,31,Michael Fraser,4,8
+2019,125,Brumbies,26,Blues,21,Damon Murphy,9,15
+2019,126,Bulls,28,NSW Waratahs,21,Jaco Peyper,6,11
+2019,127,Jaguares,30,Stormers,25,AJ Jacobs,14,8
+2019,131,Blues,12,Hurricanes,22,Nick Briant,10,16
+2019,132,Rebels,30,Reds,24,Angus Gardner,10,14
+2019,133,Bulls,13,Crusaders,45,Rasta Rasivhenge,4,12
+2019,134,Highlanders,32,Jaguares,27,Ben O'keeffe,7,11
+2019,135,Chiefs,29,Sharks,23,Nic Berry,8,6
+2019,136,Lions,29,NSW Waratahs,28,Egon Seconds,2,11
+2019,137,Brumbies,33,Sunwolves,0,Damon Murphy,8,10
+2019,141,Hurricanes,20,Jaguares,28,Brendon Pickerill,7,13
+2019,142,Rebels,17,Bulls,32,Federico Anselmi,7,11
+2019,143,Blues,23,Chiefs,8,Glen Jackson,5,9
+2019,144,Reds,32,NSW Waratahs,40,Ben O'keeffe,7,3
+2019,145,Lions,38,Highlanders,29,Rasta Rasivhenge,3,12
+2019,146,Stormers,19,Crusaders,19,Nic Berry,8,13
+2019,151,Chiefs,19,Reds,13,Angus Gardner,13,3
+2019,152,Brumbies,22,Bulls,10,Jaco Peyper,11,10
+2019,153,Sunwolves,7,Rebels,52,Nick Briant,14,10
+2019,154,Crusaders,19,Blues,11,Michael Fraser,8,12
+2019,155,NSW Waratahs,15,Jaguares,23,Paul Williams,6,7
+2019,156,Stormers,34,Highlanders,22,Nic Berry,7,7
+2019,157,Sharks,27,Lions,17,Marius van der westhuizen,8,8
+2019,161,Blues,22,Bulls,22,Michael Fraser,6,9
+2019,162,Rebels,15,NSW Waratahs,20,Paul Williams,7,7
+2019,163,Sunwolves,19,Brumbies,42,Federico Anselmi,12,9
+2019,164,Chiefs,40,Crusaders,27,Ben O'keeffe,6,3
+2019,165,Reds,23,Jaguares,34,Jaco Peyper,8,9
+2019,166,Sharks,17,Hurricanes,30,Nic Berry,9,8
+2019,167,Lions,41,Stormers,22,Marius van der westhuizen,10,10
+2019,171,Highlanders,24,Bulls,24,Angus Gardner,5,5
+2019,172,Reds,29,Blues,28,Brendon Pickerill,7,16
+2019,173,Crusaders,66,Rebels,0,Glen Jackson,5,7
+2019,174,NSW Waratahs,24,Brumbies,35,Ben O'keeffe,9,8
+2019,175,Lions,17,Hurricanes,37,Jaco Peyper,7,9
+2019,176,Stormers,31,Sunwolves,18,AJ Jacobs,3,12
+2019,177,Jaguares,34,Sharks,7,Nick Briant,11,11
+2019,181,Highlanders,49,NSW Waratahs,12,Michael Fraser,4,7
+2019,182,Rebels,8,Chiefs,59,Angus Gardner,7,8
+2019,183,Jaguares,52,Sunwolves,10,Federico Anselmi,7,12
+2019,184,Hurricanes,29,Blues,24,Glen Jackson,5,12
+2019,185,Brumbies,40,Reds,27,Paul Williams,11,9
+2019,186,Stormers,9,Sharks,12,AJ Jacobs,5,9
+2019,187,Bulls,48,Lions,27,Marius van der westhuizen,13,8
+2019,191,Crusaders,38,Highlanders,14,Jaco Peyper,7,9
+2019,193,Jaguares,21,Chiefs,16,Glen Jackson,10,10
+2019,192,Hurricanes,35,Bulls,28,Nic Berry,7,7
+2019,194,Brumbies,38,Sharks,13,Michael Fraser,7,7
+2019,202,Jaguares,39,Brumbies,7,Michael Fraser,6,5
+2019,201,Crusaders,30,Hurricanes,26,Nic Berry,3,7
+2019,211,Crusaders,19,Jaguares,3,Jaco Peyper,4,8
